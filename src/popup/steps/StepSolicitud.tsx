@@ -1,6 +1,3 @@
-// popup/steps/StepSolicitud.tsx
-
-import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs"
 import { FieldRow } from "../components/FieldRow"
 import type { FieldDef } from "../types"
 
@@ -34,41 +31,28 @@ const SECTION_MODAL: FieldDef[] = [
 ]
 
 export const SOLICITUD_FIELDS = [...SECTION_MAIN, ...SECTION_MODAL]
+export const SOLICITUD_SECTIONS = { main: SECTION_MAIN, modal: SECTION_MODAL }
 
 interface Props {
+    section: "main" | "modal"
     values: Record<string, string>
     onChange: (selector: string, value: string) => void
 }
 
-export function StepSolicitud({ values, onChange }: Props) {
+// El componente solo renderiza los campos del section activo
+// Los tabs viven en App.tsx para estar siempre visibles sobre el scroll
+export function StepSolicitud({ section, values, onChange }: Props) {
+    const fields = section === "main" ? SECTION_MAIN : SECTION_MODAL
     return (
-        <Tabs defaultValue="main">
-            <TabsList>
-                <TabsTrigger value="main">Datos personales</TabsTrigger>
-                <TabsTrigger value="modal">Modal doc.</TabsTrigger>
-            </TabsList>
-
-            <TabsContent value="main" className="flex flex-col gap-3">
-                {SECTION_MAIN.map((field) => (
-                    <FieldRow
-                        key={field.selector}
-                        field={field}
-                        value={values[field.selector] || ""}
-                        onChange={onChange}
-                    />
-                ))}
-            </TabsContent>
-
-            <TabsContent value="modal" className="flex flex-col gap-3">
-                {SECTION_MODAL.map((field) => (
-                    <FieldRow
-                        key={field.selector}
-                        field={field}
-                        value={values[field.selector] || ""}
-                        onChange={onChange}
-                    />
-                ))}
-            </TabsContent>
-        </Tabs>
+        <div className="flex flex-col gap-3">
+            {fields.map((field) => (
+                <FieldRow
+                    key={field.selector}
+                    field={field}
+                    value={values[field.selector] || ""}
+                    onChange={onChange}
+                />
+            ))}
+        </div>
     )
 }
