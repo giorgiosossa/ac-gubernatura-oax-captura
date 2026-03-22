@@ -120,7 +120,7 @@ export default function App() {
             <div className="flex items-center justify-between px-5 pt-5 pb-4 shrink-0">
                 <div>
                     <h1 className="text-sm font-semibold text-foreground tracking-tight">
-                        Form Filler
+                        Atención Ciudadana de Gubernatura
                     </h1>
                     <p className="text-xs text-muted-foreground mt-0.5">{viewTitle}</p>
                 </div>
@@ -154,6 +154,12 @@ export default function App() {
                 )}
             </div>
 
+            {/* Footer */}
+            <div className="shrink-0 pb-3 text-center">
+                <p className="text-[10px] text-muted-foreground/50">
+                    Desarrollado por: Jorge Eduardo Sosa Perera
+                </p>
+            </div>
         </div>
     )
 }
