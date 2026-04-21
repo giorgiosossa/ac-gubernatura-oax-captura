@@ -1,0 +1,12 @@
+Política de Privacidad — Form Filler SIAC Oaxaca
+
+Última actualización: abril 2026
+
+Datos que procesa la extensión:
+- Las imágenes que el usuario carga son enviadas a la API de OpenAI (api.openai.com) para su análisis. No se almacenan en ningún servidor propio.
+- Los datos extraídos del documento se guardan temporalmente en el almacenamiento local del navegador (chrome.storage.local) únicamente en el dispositivo del usuario.
+- La extensión no recopila, transmite ni comparte datos personales con terceros, salvo el envío de la imagen a OpenAI para su procesamiento, sujeto a la política de privacidad de OpenAI (openai.com/privacy).
+
+La extensión no requiere registro de usuario ni cuenta propia.
+
+Contacto: jorgesosaperera@gmail.com 
