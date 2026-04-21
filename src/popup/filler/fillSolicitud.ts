@@ -239,7 +239,131 @@ export function fillSolicitud(
             }
         }
 
-        // ── 3. Modal "Agregar documento" ────────────────────────────────────────
+        // ── 3. Contactos adicionales ─────────────────────────────────────────────
+        const contactos = data["_contactos"]
+        if (Array.isArray(contactos) && contactos.length > 0) {
+            for (let i = 0; i < contactos.length; i++) {
+                const contacto = contactos[i]
+
+                // Validar que tenga al menos nombre, apellido y teléfono
+                const tieneNombre   = !!(contacto.nombre         && contacto.nombre.trim())
+                const tieneApellido = !!(contacto.apellido_paterno && contacto.apellido_paterno.trim())
+                const tieneTelefono = !!(contacto.telefono        && contacto.telefono.trim())
+
+                if (!tieneNombre || !tieneApellido || !tieneTelefono) {
+                    results.push({
+                        label: `Contacto ${i + 1}`,
+                        success: false,
+                        detail: `Saltado — faltan campos obligatorios (nombre, apellido o teléfono)`,
+                    })
+                    continue
+                }
+
+                console.log(`[FormFiller] Agregando contacto ${i + 1}:`, contacto)
+
+                // Click en botón "Agregar contacto" — dentro del fieldset de contacto adicional
+                const btnAgregar = document.querySelector(
+                    "fieldset legend ~ div p-button[label='Agregar contacto'] button, p-button[label='Agregar contacto'] button"
+                ) as HTMLElement | null
+
+                if (!btnAgregar) {
+                    results.push({ label: `Contacto ${i + 1}`, success: false, detail: "Botón 'Agregar contacto' no encontrado" })
+                    continue
+                }
+
+                btnAgregar.click()
+
+                // Esperar que aparezca el modal de contacto
+                const modalContacto = await waitForElement("#nombreC", 5000)
+                if (!modalContacto) {
+                    results.push({ label: `Contacto ${i + 1}`, success: false, detail: "Modal de contacto no apareció" })
+                    continue
+                }
+
+                await new Promise((r) => setTimeout(r, 400))
+
+                // Rellenar campos del modal
+                const contactFields = [
+                    { selector: "#nombreC",          value: contacto.nombre           || "" },
+                    { selector: "#apellidoPaternoC", value: contacto.apellido_paterno || "" },
+                    { selector: "#apellidoMaternoC", value: contacto.apellido_materno || "" },
+                    { selector: "#correoPersonalC",  value: contacto.correo           || "" },
+                    { selector: "#telefonoC",        value: contacto.telefono         || "" },
+                    { selector: "#comentario",       value: contacto.comentario       || "" },
+                ]
+
+                for (const cf of contactFields) {
+                    if (!cf.value) continue
+                    const el = document.querySelector(cf.selector) as HTMLInputElement | null
+                    if (!el) continue
+                    fillInputAngular(el, cf.value)
+                }
+
+                await new Promise((r) => setTimeout(r, 300))
+
+                // Click en botón "Agregar" — dentro de app-dialog-contacto-adicional
+                // para no confundir con el botón guardar del formulario principal
+                const btnGuardar = document.querySelector(
+                    "app-dialog-contacto-adicional button.btn.btn-primary.w-100"
+                ) as HTMLElement | null
+
+                if (!btnGuardar) {
+                    results.push({ label: `Contacto ${i + 1}`, success: false, detail: "Botón guardar no encontrado" })
+                    continue
+                }
+
+                btnGuardar.click()
+
+                // Esperar que aparezca el modal de éxito (ngb-modal-window)
+                await new Promise<void>((resolve) => {
+                    const observer = new MutationObserver(() => {
+                        if (document.querySelector("ngb-modal-window")) {
+                            observer.disconnect()
+                            resolve()
+                        }
+                    })
+                    observer.observe(document.body, { childList: true, subtree: true })
+                    setTimeout(() => { observer.disconnect(); resolve() }, 5000)
+                })
+
+                // Buscar específicamente el botón "Aceptar" en el modal-footer (no la X del header)
+                const btnAceptar = document.querySelector(
+                    "ngb-modal-window .modal-footer button.btn.btn-primary.ng-star-inserted"
+                ) as HTMLElement | null
+
+                if (btnAceptar) {
+                    btnAceptar.click()
+                }
+
+                // Esperar a que ngb-modal-window desaparezca del DOM ANTES de continuar
+                await new Promise<void>((resolve) => {
+                    // Si ya no existe, resolver inmediatamente
+                    if (!document.querySelector("ngb-modal-window")) {
+                        resolve()
+                        return
+                    }
+                    const observer = new MutationObserver(() => {
+                        if (!document.querySelector("ngb-modal-window")) {
+                            observer.disconnect()
+                            resolve()
+                        }
+                    })
+                    observer.observe(document.body, { childList: true, subtree: true })
+                    setTimeout(() => { observer.disconnect(); resolve() }, 6000)
+                })
+
+                // Pausa adicional para que Angular actualice el DOM tras cerrar el modal
+                await new Promise((r) => setTimeout(r, 400))
+
+                results.push({
+                    label: `Contacto ${i + 1}`,
+                    success: true,
+                    detail: [contacto.nombre, contacto.apellido_paterno].filter(Boolean).join(" "),
+                })
+            }
+        }
+
+        // ── 4. Modal "Agregar documento" ────────────────────────────────────────
         const shouldFillModal = [
             data["fechaDoc"], data["fechaRecep"],
             data["#dirigidoA"], data["modal_municipio"], data["modal_localidad"],

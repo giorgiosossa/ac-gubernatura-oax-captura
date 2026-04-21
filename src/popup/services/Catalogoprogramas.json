@@ -1,0 +1,6993 @@
+{
+  "programas": [
+    {
+      "id": 1,
+      "programa": " .",
+      "subprogramas": [
+        {
+          "id": 290,
+          "programa": {
+            "id": 1,
+            "programa": " ."
+          },
+          "subprograma": " .",
+          "proyectos": [
+            {
+              "id": 35,
+              "subprograma": {
+                "id": 290,
+                "programa": {
+                  "id": 1,
+                  "programa": " ."
+                },
+                "subprograma": " ."
+              },
+              "proyecto": " ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "programa": "Abasto rural / abasto y comercialización",
+      "subprogramas": [
+        {
+          "id": 52,
+          "programa": {
+            "id": 53,
+            "programa": "Abasto rural / abasto y comercialización"
+          },
+          "subprograma": "Lecherías",
+          "proyectos": [
+            {
+              "id": 85,
+              "subprograma": {
+                "id": 52,
+                "programa": {
+                  "id": 53,
+                  "programa": "Abasto rural / abasto y comercialización"
+                },
+                "subprograma": "Lecherías"
+              },
+              "proyecto": "Lecherías"
+            }
+          ]
+        },
+        {
+          "id": 117,
+          "programa": {
+            "id": 53,
+            "programa": "Abasto rural / abasto y comercialización"
+          },
+          "subprograma": "Tiendas rurales",
+          "proyectos": [
+            {
+              "id": 143,
+              "subprograma": {
+                "id": 117,
+                "programa": {
+                  "id": 53,
+                  "programa": "Abasto rural / abasto y comercialización"
+                },
+                "subprograma": "Tiendas rurales"
+              },
+              "proyecto": "Tiendas rurales"
+            }
+          ]
+        },
+        {
+          "id": 162,
+          "programa": {
+            "id": 53,
+            "programa": "Abasto rural / abasto y comercialización"
+          },
+          "subprograma": "Tiendas IMSS",
+          "proyectos": [
+            {
+              "id": 182,
+              "subprograma": {
+                "id": 162,
+                "programa": {
+                  "id": 53,
+                  "programa": "Abasto rural / abasto y comercialización"
+                },
+                "subprograma": "Tiendas IMSS"
+              },
+              "proyecto": "Tiendas IMSS"
+            }
+          ]
+        },
+        {
+          "id": 200,
+          "programa": {
+            "id": 53,
+            "programa": "Abasto rural / abasto y comercialización"
+          },
+          "subprograma": "Tiendas ISSSTE",
+          "proyectos": [
+            {
+              "id": 214,
+              "subprograma": {
+                "id": 200,
+                "programa": {
+                  "id": 53,
+                  "programa": "Abasto rural / abasto y comercialización"
+                },
+                "subprograma": "Tiendas ISSSTE"
+              },
+              "proyecto": "Tiendas ISSSTE"
+            }
+          ]
+        },
+        {
+          "id": 228,
+          "programa": {
+            "id": 53,
+            "programa": "Abasto rural / abasto y comercialización"
+          },
+          "subprograma": "Centros comunitarios  de abasto",
+          "proyectos": [
+            {
+              "id": 237,
+              "subprograma": {
+                "id": 228,
+                "programa": {
+                  "id": 53,
+                  "programa": "Abasto rural / abasto y comercialización"
+                },
+                "subprograma": "Centros comunitarios  de abasto"
+              },
+              "proyecto": "Centros comunitarios  de abasto"
+            }
+          ]
+        },
+        {
+          "id": 251,
+          "programa": {
+            "id": 53,
+            "programa": "Abasto rural / abasto y comercialización"
+          },
+          "subprograma": "Otros",
+          "proyectos": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "programa": "Administración de justicia",
+      "subprogramas": [
+        {
+          "id": 2,
+          "programa": {
+            "id": 3,
+            "programa": "Administración de justicia"
+          },
+          "subprograma": "Asesoría jurídica",
+          "proyectos": [
+            {
+              "id": 1,
+              "subprograma": {
+                "id": 2,
+                "programa": {
+                  "id": 3,
+                  "programa": "Administración de justicia"
+                },
+                "subprograma": "Asesoría jurídica"
+              },
+              "proyecto": "Asesoría jurídica"
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "programa": {
+            "id": 3,
+            "programa": "Administración de justicia"
+          },
+          "subprograma": "Quejas",
+          "proyectos": [
+            {
+              "id": 102,
+              "subprograma": {
+                "id": 73,
+                "programa": {
+                  "id": 3,
+                  "programa": "Administración de justicia"
+                },
+                "subprograma": "Quejas"
+              },
+              "proyecto": "Quejas"
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "programa": {
+            "id": 3,
+            "programa": "Administración de justicia"
+          },
+          "subprograma": "Liberaciones de órdenes de aprehensión",
+          "proyectos": [
+            {
+              "id": 16,
+              "subprograma": {
+                "id": 130,
+                "programa": {
+                  "id": 3,
+                  "programa": "Administración de justicia"
+                },
+                "subprograma": "Liberaciones de órdenes de aprehensión"
+              },
+              "proyecto": "Liberaciones de órdenes de aprehensión"
+            }
+          ]
+        },
+        {
+          "id": 171,
+          "programa": {
+            "id": 3,
+            "programa": "Administración de justicia"
+          },
+          "subprograma": "Revisión de expediente",
+          "proyectos": [
+            {
+              "id": 187,
+              "subprograma": {
+                "id": 171,
+                "programa": {
+                  "id": 3,
+                  "programa": "Administración de justicia"
+                },
+                "subprograma": "Revisión de expediente"
+              },
+              "proyecto": "Revisión de expediente"
+            }
+          ]
+        },
+        {
+          "id": 209,
+          "programa": {
+            "id": 3,
+            "programa": "Administración de justicia"
+          },
+          "subprograma": "Asignación de defensores de oficio",
+          "proyectos": [
+            {
+              "id": 25,
+              "subprograma": {
+                "id": 209,
+                "programa": {
+                  "id": 3,
+                  "programa": "Administración de justicia"
+                },
+                "subprograma": "Asignación de defensores de oficio"
+              },
+              "proyecto": "Asignación de defensores de oficio"
+            }
+          ]
+        },
+        {
+          "id": 236,
+          "programa": {
+            "id": 3,
+            "programa": "Administración de justicia"
+          },
+          "subprograma": "Fianzas",
+          "proyectos": [
+            {
+              "id": 29,
+              "subprograma": {
+                "id": 236,
+                "programa": {
+                  "id": 3,
+                  "programa": "Administración de justicia"
+                },
+                "subprograma": "Fianzas"
+              },
+              "proyecto": "Fianzas"
+            }
+          ]
+        },
+        {
+          "id": 259,
+          "programa": {
+            "id": 3,
+            "programa": "Administración de justicia"
+          },
+          "subprograma": "Indemnizaciones",
+          "proyectos": [
+            {
+              "id": 262,
+              "subprograma": {
+                "id": 259,
+                "programa": {
+                  "id": 3,
+                  "programa": "Administración de justicia"
+                },
+                "subprograma": "Indemnizaciones"
+              },
+              "proyecto": "Indemnizaciones"
+            }
+          ]
+        },
+        {
+          "id": 274,
+          "programa": {
+            "id": 3,
+            "programa": "Administración de justicia"
+          },
+          "subprograma": "Resoluciones judiciales",
+          "proyectos": [
+            {
+              "id": 274,
+              "subprograma": {
+                "id": 274,
+                "programa": {
+                  "id": 3,
+                  "programa": "Administración de justicia"
+                },
+                "subprograma": "Resoluciones judiciales"
+              },
+              "proyecto": "Resoluciones judiciales"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "programa": "Agua potable",
+      "subprogramas": [
+        {
+          "id": 46,
+          "programa": {
+            "id": 47,
+            "programa": "Agua potable"
+          },
+          "subprograma": "Sistema de agua potable",
+          "proyectos": [
+            {
+              "id": 79,
+              "subprograma": {
+                "id": 46,
+                "programa": {
+                  "id": 47,
+                  "programa": "Agua potable"
+                },
+                "subprograma": "Sistema de agua potable"
+              },
+              "proyecto": "Sistema de agua potable"
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "programa": {
+            "id": 47,
+            "programa": "Agua potable"
+          },
+          "subprograma": "Red de conducción",
+          "proyectos": [
+            {
+              "id": 139,
+              "subprograma": {
+                "id": 112,
+                "programa": {
+                  "id": 47,
+                  "programa": "Agua potable"
+                },
+                "subprograma": "Red de conducción"
+              },
+              "proyecto": "Red de conducción"
+            }
+          ]
+        },
+        {
+          "id": 157,
+          "programa": {
+            "id": 47,
+            "programa": "Agua potable"
+          },
+          "subprograma": "Red de distribución",
+          "proyectos": [
+            {
+              "id": 177,
+              "subprograma": {
+                "id": 157,
+                "programa": {
+                  "id": 47,
+                  "programa": "Agua potable"
+                },
+                "subprograma": "Red de distribución"
+              },
+              "proyecto": "Red de distribución"
+            }
+          ]
+        },
+        {
+          "id": 197,
+          "programa": {
+            "id": 47,
+            "programa": "Agua potable"
+          },
+          "subprograma": "Obras de almacenamiento (galerías y tanques)",
+          "proyectos": [
+            {
+              "id": 211,
+              "subprograma": {
+                "id": 197,
+                "programa": {
+                  "id": 47,
+                  "programa": "Agua potable"
+                },
+                "subprograma": "Obras de almacenamiento (galerías y tanques)"
+              },
+              "proyecto": "Obras de almacenamiento (galerías y tanques)"
+            }
+          ]
+        },
+        {
+          "id": 225,
+          "programa": {
+            "id": 47,
+            "programa": "Agua potable"
+          },
+          "subprograma": "Fuentes de abastecimiento (manantiales, ríos, esteros y nacimientos)",
+          "proyectos": [
+            {
+              "id": 235,
+              "subprograma": {
+                "id": 225,
+                "programa": {
+                  "id": 47,
+                  "programa": "Agua potable"
+                },
+                "subprograma": "Fuentes de abastecimiento (manantiales, ríos, esteros y nacimientos)"
+              },
+              "proyecto": "Fuentes de abastecimiento (manantiales, ríos, esteros y nacimientos)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "programa": "Alcantarillado y drenaje sanitario",
+      "subprogramas": [
+        {
+          "id": 50,
+          "programa": {
+            "id": 51,
+            "programa": "Alcantarillado y drenaje sanitario"
+          },
+          "subprograma": "Sistema de alcantarillado y drenaje sanitario",
+          "proyectos": [
+            {
+              "id": 83,
+              "subprograma": {
+                "id": 50,
+                "programa": {
+                  "id": 51,
+                  "programa": "Alcantarillado y drenaje sanitario"
+                },
+                "subprograma": "Sistema de alcantarillado y drenaje sanitario"
+              },
+              "proyecto": "Sistema de alcantarillado y drenaje sanitario"
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "programa": {
+            "id": 51,
+            "programa": "Alcantarillado y drenaje sanitario"
+          },
+          "subprograma": "Red de captación",
+          "proyectos": [
+            {
+              "id": 141,
+              "subprograma": {
+                "id": 115,
+                "programa": {
+                  "id": 51,
+                  "programa": "Alcantarillado y drenaje sanitario"
+                },
+                "subprograma": "Red de captación"
+              },
+              "proyecto": "Red de captación"
+            }
+          ]
+        },
+        {
+          "id": 160,
+          "programa": {
+            "id": 51,
+            "programa": "Alcantarillado y drenaje sanitario"
+          },
+          "subprograma": "Asuntos administrativos",
+          "proyectos": [
+            {
+              "id": 180,
+              "subprograma": {
+                "id": 160,
+                "programa": {
+                  "id": 51,
+                  "programa": "Alcantarillado y drenaje sanitario"
+                },
+                "subprograma": "Asuntos administrativos"
+              },
+              "proyecto": "Asuntos administrativos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "programa": "Alfabetización",
+      "subprogramas": [
+        {
+          "id": 42,
+          "programa": {
+            "id": 43,
+            "programa": "Alfabetización"
+          },
+          "subprograma": "Apoyo a la educación de los adultos",
+          "proyectos": [
+            {
+              "id": 75,
+              "subprograma": {
+                "id": 42,
+                "programa": {
+                  "id": 43,
+                  "programa": "Alfabetización"
+                },
+                "subprograma": "Apoyo a la educación de los adultos"
+              },
+              "proyecto": "Apoyo a la educación de los adultos"
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "programa": {
+            "id": 43,
+            "programa": "Alfabetización"
+          },
+          "subprograma": "Infraestructura para centros de alfabetización",
+          "proyectos": [
+            {
+              "id": 135,
+              "subprograma": {
+                "id": 108,
+                "programa": {
+                  "id": 43,
+                  "programa": "Alfabetización"
+                },
+                "subprograma": "Infraestructura para centros de alfabetización"
+              },
+              "proyecto": "Infraestructura para centros de alfabetización"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "programa": "Apoyo para el campo",
+      "subprogramas": [
+        {
+          "id": 4,
+          "programa": {
+            "id": 5,
+            "programa": "Apoyo para el campo"
+          },
+          "subprograma": "Equipamiento e insumos",
+          "proyectos": [
+            {
+              "id": 40,
+              "subprograma": {
+                "id": 4,
+                "programa": {
+                  "id": 5,
+                  "programa": "Apoyo para el campo"
+                },
+                "subprograma": "Equipamiento e insumos"
+              },
+              "proyecto": "Equipamiento e insumos"
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "programa": {
+            "id": 5,
+            "programa": "Apoyo para el campo"
+          },
+          "subprograma": "Procampo",
+          "proyectos": [
+            {
+              "id": 104,
+              "subprograma": {
+                "id": 75,
+                "programa": {
+                  "id": 5,
+                  "programa": "Apoyo para el campo"
+                },
+                "subprograma": "Procampo"
+              },
+              "proyecto": "Procampo"
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "programa": {
+            "id": 5,
+            "programa": "Apoyo para el campo"
+          },
+          "subprograma": "Empleo temporal",
+          "proyectos": [
+            {
+              "id": 153,
+              "subprograma": {
+                "id": 132,
+                "programa": {
+                  "id": 5,
+                  "programa": "Apoyo para el campo"
+                },
+                "subprograma": "Empleo temporal"
+              },
+              "proyecto": "Empleo temporal"
+            }
+          ]
+        },
+        {
+          "id": 173,
+          "programa": {
+            "id": 5,
+            "programa": "Apoyo para el campo"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 189,
+              "subprograma": {
+                "id": 173,
+                "programa": {
+                  "id": 5,
+                  "programa": "Apoyo para el campo"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "programa": "Apoyo y fomento a la producción artesanal",
+      "subprogramas": [
+        {
+          "id": 21,
+          "programa": {
+            "id": 22,
+            "programa": "Apoyo y fomento a la producción artesanal"
+          },
+          "subprograma": "Artesanías",
+          "proyectos": [
+            {
+              "id": 55,
+              "subprograma": {
+                "id": 21,
+                "programa": {
+                  "id": 22,
+                  "programa": "Apoyo y fomento a la producción artesanal"
+                },
+                "subprograma": "Artesanías"
+              },
+              "proyecto": "Artesanías"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "programa": "Apoyo y fomento a la producción y productividad",
+      "subprogramas": [
+        {
+          "id": 3,
+          "programa": {
+            "id": 4,
+            "programa": "Apoyo y fomento a la producción y productividad"
+          },
+          "subprograma": "Agrícola",
+          "proyectos": [
+            {
+              "id": 39,
+              "subprograma": {
+                "id": 3,
+                "programa": {
+                  "id": 4,
+                  "programa": "Apoyo y fomento a la producción y productividad"
+                },
+                "subprograma": "Agrícola"
+              },
+              "proyecto": "Agrícola"
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "programa": {
+            "id": 4,
+            "programa": "Apoyo y fomento a la producción y productividad"
+          },
+          "subprograma": "Pecuario",
+          "proyectos": [
+            {
+              "id": 103,
+              "subprograma": {
+                "id": 74,
+                "programa": {
+                  "id": 4,
+                  "programa": "Apoyo y fomento a la producción y productividad"
+                },
+                "subprograma": "Pecuario"
+              },
+              "proyecto": "Pecuario"
+            }
+          ]
+        },
+        {
+          "id": 131,
+          "programa": {
+            "id": 4,
+            "programa": "Apoyo y fomento a la producción y productividad"
+          },
+          "subprograma": "Forestal",
+          "proyectos": [
+            {
+              "id": 152,
+              "subprograma": {
+                "id": 131,
+                "programa": {
+                  "id": 4,
+                  "programa": "Apoyo y fomento a la producción y productividad"
+                },
+                "subprograma": "Forestal"
+              },
+              "proyecto": "Forestal"
+            }
+          ]
+        },
+        {
+          "id": 172,
+          "programa": {
+            "id": 4,
+            "programa": "Apoyo y fomento a la producción y productividad"
+          },
+          "subprograma": "Avícola",
+          "proyectos": [
+            {
+              "id": 188,
+              "subprograma": {
+                "id": 172,
+                "programa": {
+                  "id": 4,
+                  "programa": "Apoyo y fomento a la producción y productividad"
+                },
+                "subprograma": "Avícola"
+              },
+              "proyecto": "Avícola"
+            }
+          ]
+        },
+        {
+          "id": 210,
+          "programa": {
+            "id": 4,
+            "programa": "Apoyo y fomento a la producción y productividad"
+          },
+          "subprograma": "Siniestros agrícolas",
+          "proyectos": [
+            {
+              "id": 221,
+              "subprograma": {
+                "id": 210,
+                "programa": {
+                  "id": 4,
+                  "programa": "Apoyo y fomento a la producción y productividad"
+                },
+                "subprograma": "Siniestros agrícolas"
+              },
+              "proyecto": "Siniestros agrícolas"
+            }
+          ]
+        },
+        {
+          "id": 237,
+          "programa": {
+            "id": 4,
+            "programa": "Apoyo y fomento a la producción y productividad"
+          },
+          "subprograma": "Caminos cosecheros",
+          "proyectos": [
+            {
+              "id": 244,
+              "subprograma": {
+                "id": 237,
+                "programa": {
+                  "id": 4,
+                  "programa": "Apoyo y fomento a la producción y productividad"
+                },
+                "subprograma": "Caminos cosecheros"
+              },
+              "proyecto": "Caminos cosecheros"
+            }
+          ]
+        },
+        {
+          "id": 260,
+          "programa": {
+            "id": 4,
+            "programa": "Apoyo y fomento a la producción y productividad"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 263,
+              "subprograma": {
+                "id": 260,
+                "programa": {
+                  "id": 4,
+                  "programa": "Apoyo y fomento a la producción y productividad"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "programa": "Apoyos a municipios",
+      "subprogramas": [
+        {
+          "id": 66,
+          "programa": {
+            "id": 67,
+            "programa": "Apoyos a municipios"
+          },
+          "subprograma": "Presidencias municipales",
+          "proyectos": [
+            {
+              "id": 96,
+              "subprograma": {
+                "id": 66,
+                "programa": {
+                  "id": 67,
+                  "programa": "Apoyos a municipios"
+                },
+                "subprograma": "Presidencias municipales"
+              },
+              "proyecto": "Presidencias municipales"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "programa": {
+            "id": 67,
+            "programa": "Apoyos a municipios"
+          },
+          "subprograma": "Agencias municipales y de policía",
+          "proyectos": [
+            {
+              "id": 149,
+              "subprograma": {
+                "id": 127,
+                "programa": {
+                  "id": 67,
+                  "programa": "Apoyos a municipios"
+                },
+                "subprograma": "Agencias municipales y de policía"
+              },
+              "proyecto": "Agencias municipales y de policía"
+            }
+          ]
+        },
+        {
+          "id": 169,
+          "programa": {
+            "id": 67,
+            "programa": "Apoyos a municipios"
+          },
+          "subprograma": "Representaciones",
+          "proyectos": [
+            {
+              "id": 186,
+              "subprograma": {
+                "id": 169,
+                "programa": {
+                  "id": 67,
+                  "programa": "Apoyos a municipios"
+                },
+                "subprograma": "Representaciones"
+              },
+              "proyecto": "Representaciones"
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "programa": {
+            "id": 67,
+            "programa": "Apoyos a municipios"
+          },
+          "subprograma": "Delegaciones municipales",
+          "proyectos": [
+            {
+              "id": 219,
+              "subprograma": {
+                "id": 207,
+                "programa": {
+                  "id": 67,
+                  "programa": "Apoyos a municipios"
+                },
+                "subprograma": "Delegaciones municipales"
+              },
+              "proyecto": "Delegaciones municipales"
+            }
+          ]
+        },
+        {
+          "id": 234,
+          "programa": {
+            "id": 67,
+            "programa": "Apoyos a municipios"
+          },
+          "subprograma": "Congregaciones",
+          "proyectos": [
+            {
+              "id": 242,
+              "subprograma": {
+                "id": 234,
+                "programa": {
+                  "id": 67,
+                  "programa": "Apoyos a municipios"
+                },
+                "subprograma": "Congregaciones"
+              },
+              "proyecto": "Congregaciones"
+            }
+          ]
+        },
+        {
+          "id": 257,
+          "programa": {
+            "id": 67,
+            "programa": "Apoyos a municipios"
+          },
+          "subprograma": "Comisariados de bienes comunales y ejidales",
+          "proyectos": [
+            {
+              "id": 261,
+              "subprograma": {
+                "id": 257,
+                "programa": {
+                  "id": 67,
+                  "programa": "Apoyos a municipios"
+                },
+                "subprograma": "Comisariados de bienes comunales y ejidales"
+              },
+              "proyecto": "Comisariados de bienes comunales y ejidales"
+            }
+          ]
+        },
+        {
+          "id": 272,
+          "programa": {
+            "id": 67,
+            "programa": "Apoyos a municipios"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 273,
+              "subprograma": {
+                "id": 272,
+                "programa": {
+                  "id": 67,
+                  "programa": "Apoyos a municipios"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "programa": "Asisencia social y servicios comunitarios",
+      "subprogramas": [
+        {
+          "id": 54,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Nutrición y alimentación",
+          "proyectos": [
+            {
+              "id": 87,
+              "subprograma": {
+                "id": 54,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Nutrición y alimentación"
+              },
+              "proyecto": "Nutrición y alimentación"
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Asistencia social a la niñez",
+          "proyectos": [
+            {
+              "id": 144,
+              "subprograma": {
+                "id": 118,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Asistencia social a la niñez"
+              },
+              "proyecto": "Asistencia social a la niñez"
+            }
+          ]
+        },
+        {
+          "id": 163,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Asistencia social a la senectud (tercera edad)",
+          "proyectos": [
+            {
+              "id": 183,
+              "subprograma": {
+                "id": 163,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Asistencia social a la senectud (tercera edad)"
+              },
+              "proyecto": "Asistencia social a la senectud (tercera edad)"
+            }
+          ]
+        },
+        {
+          "id": 201,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Asistencia social a personas con capacidades diferentes",
+          "proyectos": [
+            {
+              "id": 215,
+              "subprograma": {
+                "id": 201,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Asistencia social a personas con capacidades diferentes"
+              },
+              "proyecto": "Asistencia social a personas con capacidades diferentes"
+            }
+          ]
+        },
+        {
+          "id": 229,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Asistencia social a mujeres",
+          "proyectos": [
+            {
+              "id": 238,
+              "subprograma": {
+                "id": 229,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Asistencia social a mujeres"
+              },
+              "proyecto": "Asistencia social a mujeres"
+            }
+          ]
+        },
+        {
+          "id": 252,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Programa Desarrollo Humano y Oportunidades",
+          "proyectos": [
+            {
+              "id": 257,
+              "subprograma": {
+                "id": 252,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Programa Desarrollo Humano y Oportunidades"
+              },
+              "proyecto": "Programa Desarrollo Humano y Oportunidades"
+            }
+          ]
+        },
+        {
+          "id": 268,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Derechos humanos",
+          "proyectos": [
+            {
+              "id": 269,
+              "subprograma": {
+                "id": 268,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Derechos humanos"
+              },
+              "proyecto": "Derechos humanos"
+            }
+          ]
+        },
+        {
+          "id": 280,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Centros de atención social",
+          "proyectos": [
+            {
+              "id": 279,
+              "subprograma": {
+                "id": 280,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Centros de atención social"
+              },
+              "proyecto": "Centros de atención social"
+            }
+          ]
+        },
+        {
+          "id": 287,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Apoyos de bienestar social",
+          "proyectos": [
+            {
+              "id": 286,
+              "subprograma": {
+                "id": 287,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Apoyos de bienestar social"
+              },
+              "proyecto": "Apoyos de bienestar social"
+            }
+          ]
+        },
+        {
+          "id": 293,
+          "programa": {
+            "id": 55,
+            "programa": "Asisencia social y servicios comunitarios"
+          },
+          "subprograma": "Asesoría jurídica",
+          "proyectos": [
+            {
+              "id": 34,
+              "subprograma": {
+                "id": 293,
+                "programa": {
+                  "id": 55,
+                  "programa": "Asisencia social y servicios comunitarios"
+                },
+                "subprograma": "Asesoría jurídica"
+              },
+              "proyecto": "Asesoría jurídica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "programa": "Atención a la demanda ciudadana",
+      "subprogramas": [
+        {
+          "id": 60,
+          "programa": {
+            "id": 61,
+            "programa": "Atención a la demanda ciudadana"
+          },
+          "subprograma": "Asuntos del Poder Legislativo",
+          "proyectos": [
+            {
+              "id": 90,
+              "subprograma": {
+                "id": 60,
+                "programa": {
+                  "id": 61,
+                  "programa": "Atención a la demanda ciudadana"
+                },
+                "subprograma": "Asuntos del Poder Legislativo"
+              },
+              "proyecto": "Asuntos del Poder Legislativo"
+            }
+          ]
+        },
+        {
+          "id": 124,
+          "programa": {
+            "id": 61,
+            "programa": "Atención a la demanda ciudadana"
+          },
+          "subprograma": "Audiencias e invitaciones",
+          "proyectos": [
+            {
+              "id": 146,
+              "subprograma": {
+                "id": 124,
+                "programa": {
+                  "id": 61,
+                  "programa": "Atención a la demanda ciudadana"
+                },
+                "subprograma": "Audiencias e invitaciones"
+              },
+              "proyecto": "Audiencias e invitaciones"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "programa": "Atención a los pueblos indígenas",
+      "subprogramas": [
+        {
+          "id": 57,
+          "programa": {
+            "id": 58,
+            "programa": "Atención a los pueblos indígenas"
+          },
+          "subprograma": "Difusión de la Ley de Derechos de los Pueblos Indígenas",
+          "proyectos": [
+            {
+              "id": 7,
+              "subprograma": {
+                "id": 57,
+                "programa": {
+                  "id": 58,
+                  "programa": "Atención a los pueblos indígenas"
+                },
+                "subprograma": "Difusión de la Ley de Derechos de los Pueblos Indígenas"
+              },
+              "proyecto": "Difusión de la Ley de Derechos de los Pueblos Indígenas"
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "programa": {
+            "id": 58,
+            "programa": "Atención a los pueblos indígenas"
+          },
+          "subprograma": "Promoción de los festivales indígenas",
+          "proyectos": [
+            {
+              "id": 14,
+              "subprograma": {
+                "id": 121,
+                "programa": {
+                  "id": 58,
+                  "programa": "Atención a los pueblos indígenas"
+                },
+                "subprograma": "Promoción de los festivales indígenas"
+              },
+              "proyecto": "Promoción de los festivales indígenas"
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "programa": {
+            "id": 58,
+            "programa": "Atención a los pueblos indígenas"
+          },
+          "subprograma": "Promoción de la cultura indígena",
+          "proyectos": [
+            {
+              "id": 20,
+              "subprograma": {
+                "id": 166,
+                "programa": {
+                  "id": 58,
+                  "programa": "Atención a los pueblos indígenas"
+                },
+                "subprograma": "Promoción de la cultura indígena"
+              },
+              "proyecto": "Promoción de la cultura indígena"
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "programa": {
+            "id": 58,
+            "programa": "Atención a los pueblos indígenas"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 24,
+              "subprograma": {
+                "id": 204,
+                "programa": {
+                  "id": 58,
+                  "programa": "Atención a los pueblos indígenas"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        },
+        {
+          "id": 231,
+          "programa": {
+            "id": 58,
+            "programa": "Atención a los pueblos indígenas"
+          },
+          "subprograma": "Defensa legal",
+          "proyectos": [
+            {
+              "id": 239,
+              "subprograma": {
+                "id": 231,
+                "programa": {
+                  "id": 58,
+                  "programa": "Atención a los pueblos indígenas"
+                },
+                "subprograma": "Defensa legal"
+              },
+              "proyecto": "Defensa legal"
+            }
+          ]
+        },
+        {
+          "id": 254,
+          "programa": {
+            "id": 58,
+            "programa": "Atención a los pueblos indígenas"
+          },
+          "subprograma": "Otorgamiento de becas",
+          "proyectos": [
+            {
+              "id": 31,
+              "subprograma": {
+                "id": 254,
+                "programa": {
+                  "id": 58,
+                  "programa": "Atención a los pueblos indígenas"
+                },
+                "subprograma": "Otorgamiento de becas"
+              },
+              "proyecto": "Otorgamiento de becas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "programa": "Atención a migrantes",
+      "subprogramas": [
+        {
+          "id": 55,
+          "programa": {
+            "id": 56,
+            "programa": "Atención a migrantes"
+          },
+          "subprograma": "Trámites de pasaportes y visas",
+          "proyectos": [
+            {
+              "id": 5,
+              "subprograma": {
+                "id": 55,
+                "programa": {
+                  "id": 56,
+                  "programa": "Atención a migrantes"
+                },
+                "subprograma": "Trámites de pasaportes y visas"
+              },
+              "proyecto": "Trámites de pasaportes y visas"
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "programa": {
+            "id": 56,
+            "programa": "Atención a migrantes"
+          },
+          "subprograma": "Traslado de cadáveres",
+          "proyectos": [
+            {
+              "id": 12,
+              "subprograma": {
+                "id": 119,
+                "programa": {
+                  "id": 56,
+                  "programa": "Atención a migrantes"
+                },
+                "subprograma": "Traslado de cadáveres"
+              },
+              "proyecto": "Traslado de cadáveres"
+            }
+          ]
+        },
+        {
+          "id": 164,
+          "programa": {
+            "id": 56,
+            "programa": "Atención a migrantes"
+          },
+          "subprograma": "Indemnizaciones",
+          "proyectos": [
+            {
+              "id": 18,
+              "subprograma": {
+                "id": 164,
+                "programa": {
+                  "id": 56,
+                  "programa": "Atención a migrantes"
+                },
+                "subprograma": "Indemnizaciones"
+              },
+              "proyecto": "Indemnizaciones"
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "programa": {
+            "id": 56,
+            "programa": "Atención a migrantes"
+          },
+          "subprograma": "Asesoría administrativa y legal",
+          "proyectos": [
+            {
+              "id": 216,
+              "subprograma": {
+                "id": 202,
+                "programa": {
+                  "id": 56,
+                  "programa": "Atención a migrantes"
+                },
+                "subprograma": "Asesoría administrativa y legal"
+              },
+              "proyecto": "Asesoría administrativa y legal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "programa": "Caminos rurales",
+      "subprogramas": [
+        {
+          "id": 25,
+          "programa": {
+            "id": 26,
+            "programa": "Caminos rurales"
+          },
+          "subprograma": "Caminos",
+          "proyectos": [
+            {
+              "id": 59,
+              "subprograma": {
+                "id": 25,
+                "programa": {
+                  "id": 26,
+                  "programa": "Caminos rurales"
+                },
+                "subprograma": "Caminos"
+              },
+              "proyecto": "Caminos"
+            }
+          ]
+        },
+        {
+          "id": 92,
+          "programa": {
+            "id": 26,
+            "programa": "Caminos rurales"
+          },
+          "subprograma": "Brechas",
+          "proyectos": [
+            {
+              "id": 120,
+              "subprograma": {
+                "id": 92,
+                "programa": {
+                  "id": 26,
+                  "programa": "Caminos rurales"
+                },
+                "subprograma": "Brechas"
+              },
+              "proyecto": "Brechas"
+            }
+          ]
+        },
+        {
+          "id": 141,
+          "programa": {
+            "id": 26,
+            "programa": "Caminos rurales"
+          },
+          "subprograma": "Puentes vehiculares",
+          "proyectos": [
+            {
+              "id": 162,
+              "subprograma": {
+                "id": 141,
+                "programa": {
+                  "id": 26,
+                  "programa": "Caminos rurales"
+                },
+                "subprograma": "Puentes vehiculares"
+              },
+              "proyecto": "Puentes vehiculares"
+            }
+          ]
+        },
+        {
+          "id": 180,
+          "programa": {
+            "id": 26,
+            "programa": "Caminos rurales"
+          },
+          "subprograma": "Puentes colgantes",
+          "proyectos": [
+            {
+              "id": 196,
+              "subprograma": {
+                "id": 180,
+                "programa": {
+                  "id": 26,
+                  "programa": "Caminos rurales"
+                },
+                "subprograma": "Puentes colgantes"
+              },
+              "proyecto": "Puentes colgantes"
+            }
+          ]
+        },
+        {
+          "id": 213,
+          "programa": {
+            "id": 26,
+            "programa": "Caminos rurales"
+          },
+          "subprograma": "Vados",
+          "proyectos": [
+            {
+              "id": 224,
+              "subprograma": {
+                "id": 213,
+                "programa": {
+                  "id": 26,
+                  "programa": "Caminos rurales"
+                },
+                "subprograma": "Vados"
+              },
+              "proyecto": "Vados"
+            }
+          ]
+        },
+        {
+          "id": 239,
+          "programa": {
+            "id": 26,
+            "programa": "Caminos rurales"
+          },
+          "subprograma": "Empleo temporal",
+          "proyectos": [
+            {
+              "id": 246,
+              "subprograma": {
+                "id": 239,
+                "programa": {
+                  "id": 26,
+                  "programa": "Caminos rurales"
+                },
+                "subprograma": "Empleo temporal"
+              },
+              "proyecto": "Empleo temporal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "programa": "Carreteras alimentadoras",
+      "subprogramas": [
+        {
+          "id": 24,
+          "programa": {
+            "id": 25,
+            "programa": "Carreteras alimentadoras"
+          },
+          "subprograma": "Carreteras",
+          "proyectos": [
+            {
+              "id": 58,
+              "subprograma": {
+                "id": 24,
+                "programa": {
+                  "id": 25,
+                  "programa": "Carreteras alimentadoras"
+                },
+                "subprograma": "Carreteras"
+              },
+              "proyecto": "Carreteras"
+            }
+          ]
+        },
+        {
+          "id": 91,
+          "programa": {
+            "id": 25,
+            "programa": "Carreteras alimentadoras"
+          },
+          "subprograma": "Puentes vehiculares",
+          "proyectos": [
+            {
+              "id": 119,
+              "subprograma": {
+                "id": 91,
+                "programa": {
+                  "id": 25,
+                  "programa": "Carreteras alimentadoras"
+                },
+                "subprograma": "Puentes vehiculares"
+              },
+              "proyecto": "Puentes vehiculares"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "programa": "Carreteras federales",
+      "subprogramas": [
+        {
+          "id": 23,
+          "programa": {
+            "id": 24,
+            "programa": "Carreteras federales"
+          },
+          "subprograma": "Carreteras",
+          "proyectos": [
+            {
+              "id": 57,
+              "subprograma": {
+                "id": 23,
+                "programa": {
+                  "id": 24,
+                  "programa": "Carreteras federales"
+                },
+                "subprograma": "Carreteras"
+              },
+              "proyecto": "Carreteras"
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "programa": {
+            "id": 24,
+            "programa": "Carreteras federales"
+          },
+          "subprograma": "Puentes vehiculares",
+          "proyectos": [
+            {
+              "id": 118,
+              "subprograma": {
+                "id": 90,
+                "programa": {
+                  "id": 24,
+                  "programa": "Carreteras federales"
+                },
+                "subprograma": "Puentes vehiculares"
+              },
+              "proyecto": "Puentes vehiculares"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "programa": "Conflictos",
+      "subprogramas": [
+        {
+          "id": 62,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Políticos",
+          "proyectos": [
+            {
+              "id": 92,
+              "subprograma": {
+                "id": 62,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Políticos"
+              },
+              "proyecto": "Políticos"
+            }
+          ]
+        },
+        {
+          "id": 125,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Electorales",
+          "proyectos": [
+            {
+              "id": 147,
+              "subprograma": {
+                "id": 125,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Electorales"
+              },
+              "proyecto": "Electorales"
+            }
+          ]
+        },
+        {
+          "id": 167,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Religiosos",
+          "proyectos": [
+            {
+              "id": 184,
+              "subprograma": {
+                "id": 167,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Religiosos"
+              },
+              "proyecto": "Religiosos"
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Laborales (sector privado)",
+          "proyectos": [
+            {
+              "id": 217,
+              "subprograma": {
+                "id": 205,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Laborales (sector privado)"
+              },
+              "proyecto": "Laborales (sector privado)"
+            }
+          ]
+        },
+        {
+          "id": 232,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Magisteriales",
+          "proyectos": [
+            {
+              "id": 240,
+              "subprograma": {
+                "id": 232,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Magisteriales"
+              },
+              "proyecto": "Magisteriales"
+            }
+          ]
+        },
+        {
+          "id": 255,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Sindicales",
+          "proyectos": [
+            {
+              "id": 259,
+              "subprograma": {
+                "id": 255,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Sindicales"
+              },
+              "proyecto": "Sindicales"
+            }
+          ]
+        },
+        {
+          "id": 270,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Municipales",
+          "proyectos": [
+            {
+              "id": 271,
+              "subprograma": {
+                "id": 270,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Municipales"
+              },
+              "proyecto": "Municipales"
+            }
+          ]
+        },
+        {
+          "id": 282,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Transportistas",
+          "proyectos": [
+            {
+              "id": 281,
+              "subprograma": {
+                "id": 282,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Transportistas"
+              },
+              "proyecto": "Transportistas"
+            }
+          ]
+        },
+        {
+          "id": 289,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Ecologistas",
+          "proyectos": [
+            {
+              "id": 288,
+              "subprograma": {
+                "id": 289,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Ecologistas"
+              },
+              "proyecto": "Ecologistas"
+            }
+          ]
+        },
+        {
+          "id": 294,
+          "programa": {
+            "id": 63,
+            "programa": "Conflictos"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 292,
+              "subprograma": {
+                "id": 294,
+                "programa": {
+                  "id": 63,
+                  "programa": "Conflictos"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "programa": "Derechos humanos",
+      "subprogramas": [
+        {
+          "id": 71,
+          "programa": {
+            "id": 72,
+            "programa": "Derechos humanos"
+          },
+          "subprograma": "Derechos humanos",
+          "proyectos": [
+            {
+              "id": 100,
+              "subprograma": {
+                "id": 71,
+                "programa": {
+                  "id": 72,
+                  "programa": "Derechos humanos"
+                },
+                "subprograma": "Derechos humanos"
+              },
+              "proyecto": "Derechos humanos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "programa": "Desarrollo con perspectiva de genero",
+      "subprogramas": [
+        {
+          "id": 56,
+          "programa": {
+            "id": 57,
+            "programa": "Desarrollo con perspectiva de genero"
+          },
+          "subprograma": "Campañas de igualdad de los derechos de la mujer y los hombres",
+          "proyectos": [
+            {
+              "id": 6,
+              "subprograma": {
+                "id": 56,
+                "programa": {
+                  "id": 57,
+                  "programa": "Desarrollo con perspectiva de genero"
+                },
+                "subprograma": "Campañas de igualdad de los derechos de la mujer y los hombres"
+              },
+              "proyecto": "Campañas de igualdad de los derechos de la mujer y los hombres"
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "programa": {
+            "id": 57,
+            "programa": "Desarrollo con perspectiva de genero"
+          },
+          "subprograma": "Publicaciones",
+          "proyectos": [
+            {
+              "id": 13,
+              "subprograma": {
+                "id": 120,
+                "programa": {
+                  "id": 57,
+                  "programa": "Desarrollo con perspectiva de genero"
+                },
+                "subprograma": "Publicaciones"
+              },
+              "proyecto": "Publicaciones"
+            }
+          ]
+        },
+        {
+          "id": 165,
+          "programa": {
+            "id": 57,
+            "programa": "Desarrollo con perspectiva de genero"
+          },
+          "subprograma": "Eventos",
+          "proyectos": [
+            {
+              "id": 19,
+              "subprograma": {
+                "id": 165,
+                "programa": {
+                  "id": 57,
+                  "programa": "Desarrollo con perspectiva de genero"
+                },
+                "subprograma": "Eventos"
+              },
+              "proyecto": "Eventos"
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "programa": {
+            "id": 57,
+            "programa": "Desarrollo con perspectiva de genero"
+          },
+          "subprograma": "Spots en radio y T.V.",
+          "proyectos": [
+            {
+              "id": 23,
+              "subprograma": {
+                "id": 203,
+                "programa": {
+                  "id": 57,
+                  "programa": "Desarrollo con perspectiva de genero"
+                },
+                "subprograma": "Spots en radio y T.V."
+              },
+              "proyecto": "Spots en radio y T.V."
+            }
+          ]
+        },
+        {
+          "id": 230,
+          "programa": {
+            "id": 57,
+            "programa": "Desarrollo con perspectiva de genero"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 28,
+              "subprograma": {
+                "id": 230,
+                "programa": {
+                  "id": 57,
+                  "programa": "Desarrollo con perspectiva de genero"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        },
+        {
+          "id": 253,
+          "programa": {
+            "id": 57,
+            "programa": "Desarrollo con perspectiva de genero"
+          },
+          "subprograma": "Asesoría y asistencia legal",
+          "proyectos": [
+            {
+              "id": 258,
+              "subprograma": {
+                "id": 253,
+                "programa": {
+                  "id": 57,
+                  "programa": "Desarrollo con perspectiva de genero"
+                },
+                "subprograma": "Asesoría y asistencia legal"
+              },
+              "proyecto": "Asesoría y asistencia legal"
+            }
+          ]
+        },
+        {
+          "id": 269,
+          "programa": {
+            "id": 57,
+            "programa": "Desarrollo con perspectiva de genero"
+          },
+          "subprograma": "Capacitación",
+          "proyectos": [
+            {
+              "id": 270,
+              "subprograma": {
+                "id": 269,
+                "programa": {
+                  "id": 57,
+                  "programa": "Desarrollo con perspectiva de genero"
+                },
+                "subprograma": "Capacitación"
+              },
+              "proyecto": "Capacitación"
+            }
+          ]
+        },
+        {
+          "id": 281,
+          "programa": {
+            "id": 57,
+            "programa": "Desarrollo con perspectiva de genero"
+          },
+          "subprograma": "Información sobre equidad de género",
+          "proyectos": [
+            {
+              "id": 280,
+              "subprograma": {
+                "id": 281,
+                "programa": {
+                  "id": 57,
+                  "programa": "Desarrollo con perspectiva de genero"
+                },
+                "subprograma": "Información sobre equidad de género"
+              },
+              "proyecto": "Información sobre equidad de género"
+            }
+          ]
+        },
+        {
+          "id": 288,
+          "programa": {
+            "id": 57,
+            "programa": "Desarrollo con perspectiva de genero"
+          },
+          "subprograma": "Proyectos para mujeres",
+          "proyectos": [
+            {
+              "id": 287,
+              "subprograma": {
+                "id": 288,
+                "programa": {
+                  "id": 57,
+                  "programa": "Desarrollo con perspectiva de genero"
+                },
+                "subprograma": "Proyectos para mujeres"
+              },
+              "proyecto": "Proyectos para mujeres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "programa": "Desarrollo de áreas de riego",
+      "subprogramas": [
+        {
+          "id": 5,
+          "programa": {
+            "id": 6,
+            "programa": "Desarrollo de áreas de riego"
+          },
+          "subprograma": "Canales de riego",
+          "proyectos": [
+            {
+              "id": 41,
+              "subprograma": {
+                "id": 5,
+                "programa": {
+                  "id": 6,
+                  "programa": "Desarrollo de áreas de riego"
+                },
+                "subprograma": "Canales de riego"
+              },
+              "proyecto": "Canales de riego"
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "programa": {
+            "id": 6,
+            "programa": "Desarrollo de áreas de riego"
+          },
+          "subprograma": "Por aspersión",
+          "proyectos": [
+            {
+              "id": 105,
+              "subprograma": {
+                "id": 76,
+                "programa": {
+                  "id": 6,
+                  "programa": "Desarrollo de áreas de riego"
+                },
+                "subprograma": "Por aspersión"
+              },
+              "proyecto": "Por aspersión"
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "programa": {
+            "id": 6,
+            "programa": "Desarrollo de áreas de riego"
+          },
+          "subprograma": "Por goteo",
+          "proyectos": [
+            {
+              "id": 154,
+              "subprograma": {
+                "id": 133,
+                "programa": {
+                  "id": 6,
+                  "programa": "Desarrollo de áreas de riego"
+                },
+                "subprograma": "Por goteo"
+              },
+              "proyecto": "Por goteo"
+            }
+          ]
+        },
+        {
+          "id": 174,
+          "programa": {
+            "id": 6,
+            "programa": "Desarrollo de áreas de riego"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 190,
+              "subprograma": {
+                "id": 174,
+                "programa": {
+                  "id": 6,
+                  "programa": "Desarrollo de áreas de riego"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "programa": "Desarrollo pesquero y acuícola",
+      "subprogramas": [
+        {
+          "id": 14,
+          "programa": {
+            "id": 15,
+            "programa": "Desarrollo pesquero y acuícola"
+          },
+          "subprograma": "Pesca ribereña, pesca de alta mar, acuacultura",
+          "proyectos": [
+            {
+              "id": 48,
+              "subprograma": {
+                "id": 14,
+                "programa": {
+                  "id": 15,
+                  "programa": "Desarrollo pesquero y acuícola"
+                },
+                "subprograma": "Pesca ribereña, pesca de alta mar, acuacultura"
+              },
+              "proyecto": "Pesca ribereña, pesca de alta mar, acuacultura"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "programa": "Desarrollo turístico",
+      "subprogramas": [
+        {
+          "id": 1,
+          "programa": {
+            "id": 2,
+            "programa": "Desarrollo turístico"
+          },
+          "subprograma": "Turismo social",
+          "proyectos": [
+            {
+              "id": 37,
+              "subprograma": {
+                "id": 1,
+                "programa": {
+                  "id": 2,
+                  "programa": "Desarrollo turístico"
+                },
+                "subprograma": "Turismo social"
+              },
+              "proyecto": "Turismo social"
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "programa": {
+            "id": 2,
+            "programa": "Desarrollo turístico"
+          },
+          "subprograma": "Eco-turismo",
+          "proyectos": [
+            {
+              "id": 101,
+              "subprograma": {
+                "id": 72,
+                "programa": {
+                  "id": 2,
+                  "programa": "Desarrollo turístico"
+                },
+                "subprograma": "Eco-turismo"
+              },
+              "proyecto": "Eco-turismo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "programa": "Donaciones",
+      "subprogramas": [
+        {
+          "id": 16,
+          "programa": {
+            "id": 17,
+            "programa": "Donaciones"
+          },
+          "subprograma": "Ejidal",
+          "proyectos": [
+            {
+              "id": 50,
+              "subprograma": {
+                "id": 16,
+                "programa": {
+                  "id": 17,
+                  "programa": "Donaciones"
+                },
+                "subprograma": "Ejidal"
+              },
+              "proyecto": "Ejidal"
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "programa": {
+            "id": 17,
+            "programa": "Donaciones"
+          },
+          "subprograma": "Comunal",
+          "proyectos": [
+            {
+              "id": 113,
+              "subprograma": {
+                "id": 85,
+                "programa": {
+                  "id": 17,
+                  "programa": "Donaciones"
+                },
+                "subprograma": "Comunal"
+              },
+              "proyecto": "Comunal"
+            }
+          ]
+        },
+        {
+          "id": 138,
+          "programa": {
+            "id": 17,
+            "programa": "Donaciones"
+          },
+          "subprograma": "Pequeña propiedad",
+          "proyectos": [
+            {
+              "id": 159,
+              "subprograma": {
+                "id": 138,
+                "programa": {
+                  "id": 17,
+                  "programa": "Donaciones"
+                },
+                "subprograma": "Pequeña propiedad"
+              },
+              "proyecto": "Pequeña propiedad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "programa": "Ecología",
+      "subprogramas": [
+        {
+          "id": 7,
+          "programa": {
+            "id": 8,
+            "programa": "Ecología"
+          },
+          "subprograma": "Conservación de la biodiversidad",
+          "proyectos": [
+            {
+              "id": 43,
+              "subprograma": {
+                "id": 7,
+                "programa": {
+                  "id": 8,
+                  "programa": "Ecología"
+                },
+                "subprograma": "Conservación de la biodiversidad"
+              },
+              "proyecto": "Conservación de la biodiversidad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "programa": "Electrificación",
+      "subprogramas": [
+        {
+          "id": 51,
+          "programa": {
+            "id": 52,
+            "programa": "Electrificación"
+          },
+          "subprograma": "Urbana",
+          "proyectos": [
+            {
+              "id": 84,
+              "subprograma": {
+                "id": 51,
+                "programa": {
+                  "id": 52,
+                  "programa": "Electrificación"
+                },
+                "subprograma": "Urbana"
+              },
+              "proyecto": "Urbana"
+            }
+          ]
+        },
+        {
+          "id": 116,
+          "programa": {
+            "id": 52,
+            "programa": "Electrificación"
+          },
+          "subprograma": "Rural",
+          "proyectos": [
+            {
+              "id": 142,
+              "subprograma": {
+                "id": 116,
+                "programa": {
+                  "id": 52,
+                  "programa": "Electrificación"
+                },
+                "subprograma": "Rural"
+              },
+              "proyecto": "Rural"
+            }
+          ]
+        },
+        {
+          "id": 161,
+          "programa": {
+            "id": 52,
+            "programa": "Electrificación"
+          },
+          "subprograma": "Asuntos administrativos",
+          "proyectos": [
+            {
+              "id": 181,
+              "subprograma": {
+                "id": 161,
+                "programa": {
+                  "id": 52,
+                  "programa": "Electrificación"
+                },
+                "subprograma": "Asuntos administrativos"
+              },
+              "proyecto": "Asuntos administrativos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "programa": "Empleo",
+      "subprogramas": [
+        {
+          "id": 22,
+          "programa": {
+            "id": 23,
+            "programa": "Empleo"
+          },
+          "subprograma": "Gobierno Estatal",
+          "proyectos": [
+            {
+              "id": 56,
+              "subprograma": {
+                "id": 22,
+                "programa": {
+                  "id": 23,
+                  "programa": "Empleo"
+                },
+                "subprograma": "Gobierno Estatal"
+              },
+              "proyecto": "Gobierno Estatal"
+            }
+          ]
+        },
+        {
+          "id": 89,
+          "programa": {
+            "id": 23,
+            "programa": "Empleo"
+          },
+          "subprograma": "Gobierno Federal",
+          "proyectos": [
+            {
+              "id": 117,
+              "subprograma": {
+                "id": 89,
+                "programa": {
+                  "id": 23,
+                  "programa": "Empleo"
+                },
+                "subprograma": "Gobierno Federal"
+              },
+              "proyecto": "Gobierno Federal"
+            }
+          ]
+        },
+        {
+          "id": 140,
+          "programa": {
+            "id": 23,
+            "programa": "Empleo"
+          },
+          "subprograma": "Gobierno Municipal",
+          "proyectos": [
+            {
+              "id": 161,
+              "subprograma": {
+                "id": 140,
+                "programa": {
+                  "id": 23,
+                  "programa": "Empleo"
+                },
+                "subprograma": "Gobierno Municipal"
+              },
+              "proyecto": "Gobierno Municipal"
+            }
+          ]
+        },
+        {
+          "id": 179,
+          "programa": {
+            "id": 23,
+            "programa": "Empleo"
+          },
+          "subprograma": "Servicio Estatal de Empleo",
+          "proyectos": [
+            {
+              "id": 195,
+              "subprograma": {
+                "id": 179,
+                "programa": {
+                  "id": 23,
+                  "programa": "Empleo"
+                },
+                "subprograma": "Servicio Estatal de Empleo"
+              },
+              "proyecto": "Servicio Estatal de Empleo"
+            }
+          ]
+        },
+        {
+          "id": 212,
+          "programa": {
+            "id": 23,
+            "programa": "Empleo"
+          },
+          "subprograma": "Magisterio",
+          "proyectos": [
+            {
+              "id": 223,
+              "subprograma": {
+                "id": 212,
+                "programa": {
+                  "id": 23,
+                  "programa": "Empleo"
+                },
+                "subprograma": "Magisterio"
+              },
+              "proyecto": "Magisterio"
+            }
+          ]
+        },
+        {
+          "id": 238,
+          "programa": {
+            "id": 23,
+            "programa": "Empleo"
+          },
+          "subprograma": "Empleo temporal (Cursos de capacitación)",
+          "proyectos": [
+            {
+              "id": 245,
+              "subprograma": {
+                "id": 238,
+                "programa": {
+                  "id": 23,
+                  "programa": "Empleo"
+                },
+                "subprograma": "Empleo temporal (Cursos de capacitación)"
+              },
+              "proyecto": "Empleo temporal (Cursos de capacitación)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "programa": "Estímulos a la educación",
+      "subprogramas": [
+        {
+          "id": 41,
+          "programa": {
+            "id": 42,
+            "programa": "Estímulos a la educación"
+          },
+          "subprograma": "Apoyo a la educación preescolar",
+          "proyectos": [
+            {
+              "id": 74,
+              "subprograma": {
+                "id": 41,
+                "programa": {
+                  "id": 42,
+                  "programa": "Estímulos a la educación"
+                },
+                "subprograma": "Apoyo a la educación preescolar"
+              },
+              "proyecto": "Apoyo a la educación preescolar"
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "programa": {
+            "id": 42,
+            "programa": "Estímulos a la educación"
+          },
+          "subprograma": "Apoyo a la educación primaria",
+          "proyectos": [
+            {
+              "id": 134,
+              "subprograma": {
+                "id": 107,
+                "programa": {
+                  "id": 42,
+                  "programa": "Estímulos a la educación"
+                },
+                "subprograma": "Apoyo a la educación primaria"
+              },
+              "proyecto": "Apoyo a la educación primaria"
+            }
+          ]
+        },
+        {
+          "id": 153,
+          "programa": {
+            "id": 42,
+            "programa": "Estímulos a la educación"
+          },
+          "subprograma": "Apoyo a la educación secundaria",
+          "proyectos": [
+            {
+              "id": 173,
+              "subprograma": {
+                "id": 153,
+                "programa": {
+                  "id": 42,
+                  "programa": "Estímulos a la educación"
+                },
+                "subprograma": "Apoyo a la educación secundaria"
+              },
+              "proyecto": "Apoyo a la educación secundaria"
+            }
+          ]
+        },
+        {
+          "id": 192,
+          "programa": {
+            "id": 42,
+            "programa": "Estímulos a la educación"
+          },
+          "subprograma": "Prueba estimulos",
+          "proyectos": [
+            {
+              "id": 207,
+              "subprograma": {
+                "id": 192,
+                "programa": {
+                  "id": 42,
+                  "programa": "Estímulos a la educación"
+                },
+                "subprograma": "Prueba estimulos"
+              },
+              "proyecto": "Apoyo a la educación media superior"
+            }
+          ]
+        },
+        {
+          "id": 193,
+          "programa": {
+            "id": 42,
+            "programa": "Estímulos a la educación"
+          },
+          "subprograma": "Apoyo a la educación media superior",
+          "proyectos": []
+        },
+        {
+          "id": 222,
+          "programa": {
+            "id": 42,
+            "programa": "Estímulos a la educación"
+          },
+          "subprograma": "Apoyo a la educación  superior",
+          "proyectos": [
+            {
+              "id": 232,
+              "subprograma": {
+                "id": 222,
+                "programa": {
+                  "id": 42,
+                  "programa": "Estímulos a la educación"
+                },
+                "subprograma": "Apoyo a la educación  superior"
+              },
+              "proyecto": "Apoyo a la educación  superior"
+            }
+          ]
+        },
+        {
+          "id": 247,
+          "programa": {
+            "id": 42,
+            "programa": "Estímulos a la educación"
+          },
+          "subprograma": "Supervisión escolar",
+          "proyectos": [
+            {
+              "id": 253,
+              "subprograma": {
+                "id": 247,
+                "programa": {
+                  "id": 42,
+                  "programa": "Estímulos a la educación"
+                },
+                "subprograma": "Supervisión escolar"
+              },
+              "proyecto": "Supervisión escolar"
+            }
+          ]
+        },
+        {
+          "id": 266,
+          "programa": {
+            "id": 42,
+            "programa": "Estímulos a la educación"
+          },
+          "subprograma": "Asuntos laborales (asuntos administrativos )",
+          "proyectos": [
+            {
+              "id": 267,
+              "subprograma": {
+                "id": 266,
+                "programa": {
+                  "id": 42,
+                  "programa": "Estímulos a la educación"
+                },
+                "subprograma": "Asuntos laborales (asuntos administrativos )"
+              },
+              "proyecto": "Asuntos laborales (asuntos administrativos )"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "programa": "Estímulos al deporte",
+      "subprogramas": [
+        {
+          "id": 59,
+          "programa": {
+            "id": 60,
+            "programa": "Estímulos al deporte"
+          },
+          "subprograma": "Apoyo a deportistas",
+          "proyectos": [
+            {
+              "id": 89,
+              "subprograma": {
+                "id": 59,
+                "programa": {
+                  "id": 60,
+                  "programa": "Estímulos al deporte"
+                },
+                "subprograma": "Apoyo a deportistas"
+              },
+              "proyecto": "Apoyo a deportistas"
+            }
+          ]
+        },
+        {
+          "id": 123,
+          "programa": {
+            "id": 60,
+            "programa": "Estímulos al deporte"
+          },
+          "subprograma": "Apoyo para participar en olimpiadas",
+          "proyectos": [
+            {
+              "id": 15,
+              "subprograma": {
+                "id": 123,
+                "programa": {
+                  "id": 60,
+                  "programa": "Estímulos al deporte"
+                },
+                "subprograma": "Apoyo para participar en olimpiadas"
+              },
+              "proyecto": "Apoyo para participar en olimpiadas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "programa": "Fomento a la actividad comercial",
+      "subprogramas": [
+        {
+          "id": 19,
+          "programa": {
+            "id": 20,
+            "programa": "Fomento a la actividad comercial"
+          },
+          "subprograma": "Capacitación",
+          "proyectos": [
+            {
+              "id": 53,
+              "subprograma": {
+                "id": 19,
+                "programa": {
+                  "id": 20,
+                  "programa": "Fomento a la actividad comercial"
+                },
+                "subprograma": "Capacitación"
+              },
+              "proyecto": "Capacitación"
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "programa": {
+            "id": 20,
+            "programa": "Fomento a la actividad comercial"
+          },
+          "subprograma": "Bodegas",
+          "proyectos": [
+            {
+              "id": 115,
+              "subprograma": {
+                "id": 87,
+                "programa": {
+                  "id": 20,
+                  "programa": "Fomento a la actividad comercial"
+                },
+                "subprograma": "Bodegas"
+              },
+              "proyecto": "Bodegas"
+            }
+          ]
+        },
+        {
+          "id": 139,
+          "programa": {
+            "id": 20,
+            "programa": "Fomento a la actividad comercial"
+          },
+          "subprograma": "Panaderías",
+          "proyectos": [
+            {
+              "id": 160,
+              "subprograma": {
+                "id": 139,
+                "programa": {
+                  "id": 20,
+                  "programa": "Fomento a la actividad comercial"
+                },
+                "subprograma": "Panaderías"
+              },
+              "proyecto": "Panaderías"
+            }
+          ]
+        },
+        {
+          "id": 178,
+          "programa": {
+            "id": 20,
+            "programa": "Fomento a la actividad comercial"
+          },
+          "subprograma": "Tortillerías",
+          "proyectos": [
+            {
+              "id": 194,
+              "subprograma": {
+                "id": 178,
+                "programa": {
+                  "id": 20,
+                  "programa": "Fomento a la actividad comercial"
+                },
+                "subprograma": "Tortillerías"
+              },
+              "proyecto": "Tortillerías"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "programa": "Fomento a la exploración y explotación  minera",
+      "subprogramas": [
+        {
+          "id": 20,
+          "programa": {
+            "id": 21,
+            "programa": "Fomento a la exploración y explotación  minera"
+          },
+          "subprograma": "Exploración minera",
+          "proyectos": [
+            {
+              "id": 54,
+              "subprograma": {
+                "id": 20,
+                "programa": {
+                  "id": 21,
+                  "programa": "Fomento a la exploración y explotación  minera"
+                },
+                "subprograma": "Exploración minera"
+              },
+              "proyecto": "Exploración minera"
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "programa": {
+            "id": 21,
+            "programa": "Fomento a la exploración y explotación  minera"
+          },
+          "subprograma": "Explotación minera",
+          "proyectos": [
+            {
+              "id": 116,
+              "subprograma": {
+                "id": 88,
+                "programa": {
+                  "id": 21,
+                  "programa": "Fomento a la exploración y explotación  minera"
+                },
+                "subprograma": "Explotación minera"
+              },
+              "proyecto": "Explotación minera"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "programa": "Fomento industrial",
+      "subprogramas": [
+        {
+          "id": 18,
+          "programa": {
+            "id": 19,
+            "programa": "Fomento industrial"
+          },
+          "subprograma": "Maquiladoras, fábricas, talleres, empacadoras, palenques y demás actividades e infraestructura de fomento industrial",
+          "proyectos": [
+            {
+              "id": 52,
+              "subprograma": {
+                "id": 18,
+                "programa": {
+                  "id": 19,
+                  "programa": "Fomento industrial"
+                },
+                "subprograma": "Maquiladoras, fábricas, talleres, empacadoras, palenques y demás actividades e infraestructura de fomento industrial"
+              },
+              "proyecto": "Maquiladoras, fábricas, talleres, empacadoras, palenques y demás actividades e infraestructura de fomento industrial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "programa": "Fomento y equipamiento a los espacios  culturales",
+      "subprogramas": [
+        {
+          "id": 36,
+          "programa": {
+            "id": 37,
+            "programa": "Fomento y equipamiento a los espacios  culturales"
+          },
+          "subprograma": "Promoción y difusión cultural",
+          "proyectos": [
+            {
+              "id": 70,
+              "subprograma": {
+                "id": 36,
+                "programa": {
+                  "id": 37,
+                  "programa": "Fomento y equipamiento a los espacios  culturales"
+                },
+                "subprograma": "Promoción y difusión cultural"
+              },
+              "proyecto": "Promoción y difusión cultural"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "programa": {
+            "id": 37,
+            "programa": "Fomento y equipamiento a los espacios  culturales"
+          },
+          "subprograma": "Casas de la Cultura",
+          "proyectos": [
+            {
+              "id": 130,
+              "subprograma": {
+                "id": 102,
+                "programa": {
+                  "id": 37,
+                  "programa": "Fomento y equipamiento a los espacios  culturales"
+                },
+                "subprograma": "Casas de la Cultura"
+              },
+              "proyecto": "Casas de la Cultura"
+            }
+          ]
+        },
+        {
+          "id": 148,
+          "programa": {
+            "id": 37,
+            "programa": "Fomento y equipamiento a los espacios  culturales"
+          },
+          "subprograma": "Casas del pueblo",
+          "proyectos": [
+            {
+              "id": 169,
+              "subprograma": {
+                "id": 148,
+                "programa": {
+                  "id": 37,
+                  "programa": "Fomento y equipamiento a los espacios  culturales"
+                },
+                "subprograma": "Casas del pueblo"
+              },
+              "proyecto": "Casas del pueblo"
+            }
+          ]
+        },
+        {
+          "id": 187,
+          "programa": {
+            "id": 37,
+            "programa": "Fomento y equipamiento a los espacios  culturales"
+          },
+          "subprograma": "Museos comunitarios",
+          "proyectos": [
+            {
+              "id": 203,
+              "subprograma": {
+                "id": 187,
+                "programa": {
+                  "id": 37,
+                  "programa": "Fomento y equipamiento a los espacios  culturales"
+                },
+                "subprograma": "Museos comunitarios"
+              },
+              "proyecto": "Museos comunitarios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "programa": "Fondo Estatal para el desarrollo",
+      "subprogramas": [
+        {
+          "id": 69,
+          "programa": {
+            "id": 70,
+            "programa": "Fondo Estatal para el desarrollo"
+          },
+          "subprograma": "Obra pública",
+          "proyectos": [
+            {
+              "id": 99,
+              "subprograma": {
+                "id": 69,
+                "programa": {
+                  "id": 70,
+                  "programa": "Fondo Estatal para el desarrollo"
+                },
+                "subprograma": "Obra pública"
+              },
+              "proyecto": "Obra pública"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "programa": "Fondos municipales",
+      "subprogramas": [
+        {
+          "id": 67,
+          "programa": {
+            "id": 68,
+            "programa": "Fondos municipales"
+          },
+          "subprograma": "Participaciones municipal",
+          "proyectos": [
+            {
+              "id": 97,
+              "subprograma": {
+                "id": 67,
+                "programa": {
+                  "id": 68,
+                  "programa": "Fondos municipales"
+                },
+                "subprograma": "Participaciones municipal"
+              },
+              "proyecto": "Participaciones municipal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "programa": "Infraestructura aeroportuaria",
+      "subprogramas": [
+        {
+          "id": 26,
+          "programa": {
+            "id": 27,
+            "programa": "Infraestructura aeroportuaria"
+          },
+          "subprograma": "Aeropuertos",
+          "proyectos": [
+            {
+              "id": 60,
+              "subprograma": {
+                "id": 26,
+                "programa": {
+                  "id": 27,
+                  "programa": "Infraestructura aeroportuaria"
+                },
+                "subprograma": "Aeropuertos"
+              },
+              "proyecto": "Aeropuertos"
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "programa": {
+            "id": 27,
+            "programa": "Infraestructura aeroportuaria"
+          },
+          "subprograma": "Pistas de aterrizaje",
+          "proyectos": [
+            {
+              "id": 121,
+              "subprograma": {
+                "id": 93,
+                "programa": {
+                  "id": 27,
+                  "programa": "Infraestructura aeroportuaria"
+                },
+                "subprograma": "Pistas de aterrizaje"
+              },
+              "proyecto": "Pistas de aterrizaje"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "programa": "Infraestructura de centros de bienestar social",
+      "subprogramas": [
+        {
+          "id": 44,
+          "programa": {
+            "id": 45,
+            "programa": "Infraestructura de centros de bienestar social"
+          },
+          "subprograma": "SS",
+          "proyectos": [
+            {
+              "id": 77,
+              "subprograma": {
+                "id": 44,
+                "programa": {
+                  "id": 45,
+                  "programa": "Infraestructura de centros de bienestar social"
+                },
+                "subprograma": "SS"
+              },
+              "proyecto": "SS"
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "programa": {
+            "id": 45,
+            "programa": "Infraestructura de centros de bienestar social"
+          },
+          "subprograma": "IMSS",
+          "proyectos": [
+            {
+              "id": 137,
+              "subprograma": {
+                "id": 110,
+                "programa": {
+                  "id": 45,
+                  "programa": "Infraestructura de centros de bienestar social"
+                },
+                "subprograma": "IMSS"
+              },
+              "proyecto": "IMSS"
+            }
+          ]
+        },
+        {
+          "id": 155,
+          "programa": {
+            "id": 45,
+            "programa": "Infraestructura de centros de bienestar social"
+          },
+          "subprograma": "ISSSTE",
+          "proyectos": [
+            {
+              "id": 175,
+              "subprograma": {
+                "id": 155,
+                "programa": {
+                  "id": 45,
+                  "programa": "Infraestructura de centros de bienestar social"
+                },
+                "subprograma": "ISSSTE"
+              },
+              "proyecto": "ISSSTE"
+            }
+          ]
+        },
+        {
+          "id": 195,
+          "programa": {
+            "id": 45,
+            "programa": "Infraestructura de centros de bienestar social"
+          },
+          "subprograma": "Guarderías",
+          "proyectos": [
+            {
+              "id": 209,
+              "subprograma": {
+                "id": 195,
+                "programa": {
+                  "id": 45,
+                  "programa": "Infraestructura de centros de bienestar social"
+                },
+                "subprograma": "Guarderías"
+              },
+              "proyecto": "Guarderías"
+            }
+          ]
+        },
+        {
+          "id": 224,
+          "programa": {
+            "id": 45,
+            "programa": "Infraestructura de centros de bienestar social"
+          },
+          "subprograma": "Asilo de ancianos",
+          "proyectos": [
+            {
+              "id": 234,
+              "subprograma": {
+                "id": 224,
+                "programa": {
+                  "id": 45,
+                  "programa": "Infraestructura de centros de bienestar social"
+                },
+                "subprograma": "Asilo de ancianos"
+              },
+              "proyecto": "Asilo de ancianos"
+            }
+          ]
+        },
+        {
+          "id": 249,
+          "programa": {
+            "id": 45,
+            "programa": "Infraestructura de centros de bienestar social"
+          },
+          "subprograma": "Centros de rehabilitación de personas con capacidades diferentes",
+          "proyectos": [
+            {
+              "id": 255,
+              "subprograma": {
+                "id": 249,
+                "programa": {
+                  "id": 45,
+                  "programa": "Infraestructura de centros de bienestar social"
+                },
+                "subprograma": "Centros de rehabilitación de personas con capacidades diferentes"
+              },
+              "proyecto": "Centros de rehabilitación de personas con capacidades diferentes"
+            }
+          ]
+        },
+        {
+          "id": 267,
+          "programa": {
+            "id": 45,
+            "programa": "Infraestructura de centros de bienestar social"
+          },
+          "subprograma": "Albergues",
+          "proyectos": [
+            {
+              "id": 268,
+              "subprograma": {
+                "id": 267,
+                "programa": {
+                  "id": 45,
+                  "programa": "Infraestructura de centros de bienestar social"
+                },
+                "subprograma": "Albergues"
+              },
+              "proyecto": "Albergues"
+            }
+          ]
+        },
+        {
+          "id": 279,
+          "programa": {
+            "id": 45,
+            "programa": "Infraestructura de centros de bienestar social"
+          },
+          "subprograma": "Unidades móviles de atención social",
+          "proyectos": [
+            {
+              "id": 278,
+              "subprograma": {
+                "id": 279,
+                "programa": {
+                  "id": 45,
+                  "programa": "Infraestructura de centros de bienestar social"
+                },
+                "subprograma": "Unidades móviles de atención social"
+              },
+              "proyecto": "Unidades móviles de atención social"
+            }
+          ]
+        },
+        {
+          "id": 286,
+          "programa": {
+            "id": 45,
+            "programa": "Infraestructura de centros de bienestar social"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 285,
+              "subprograma": {
+                "id": 286,
+                "programa": {
+                  "id": 45,
+                  "programa": "Infraestructura de centros de bienestar social"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "programa": "Infraestructura deportiva",
+      "subprogramas": [
+        {
+          "id": 58,
+          "programa": {
+            "id": 59,
+            "programa": "Infraestructura deportiva"
+          },
+          "subprograma": "Unidades deportivas",
+          "proyectos": [
+            {
+              "id": 88,
+              "subprograma": {
+                "id": 58,
+                "programa": {
+                  "id": 59,
+                  "programa": "Infraestructura deportiva"
+                },
+                "subprograma": "Unidades deportivas"
+              },
+              "proyecto": "Unidades deportivas"
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "programa": {
+            "id": 59,
+            "programa": "Infraestructura deportiva"
+          },
+          "subprograma": "Canchas deportivas",
+          "proyectos": [
+            {
+              "id": 145,
+              "subprograma": {
+                "id": 122,
+                "programa": {
+                  "id": 59,
+                  "programa": "Infraestructura deportiva"
+                },
+                "subprograma": "Canchas deportivas"
+              },
+              "proyecto": "Canchas deportivas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "programa": "Infraestructura educativa",
+      "subprogramas": [
+        {
+          "id": 40,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Escuelas",
+          "proyectos": [
+            {
+              "id": 73,
+              "subprograma": {
+                "id": 40,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Escuelas"
+              },
+              "proyecto": "Escuelas"
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Aulas",
+          "proyectos": [
+            {
+              "id": 133,
+              "subprograma": {
+                "id": 106,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Aulas"
+              },
+              "proyecto": "Aulas"
+            }
+          ]
+        },
+        {
+          "id": 152,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Auditorios",
+          "proyectos": [
+            {
+              "id": 172,
+              "subprograma": {
+                "id": 152,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Auditorios"
+              },
+              "proyecto": "Auditorios"
+            }
+          ]
+        },
+        {
+          "id": 191,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Canchas",
+          "proyectos": [
+            {
+              "id": 206,
+              "subprograma": {
+                "id": 191,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Canchas"
+              },
+              "proyecto": "Canchas"
+            }
+          ]
+        },
+        {
+          "id": 221,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Plaza cívica",
+          "proyectos": [
+            {
+              "id": 231,
+              "subprograma": {
+                "id": 221,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Plaza cívica"
+              },
+              "proyecto": "Plaza cívica"
+            }
+          ]
+        },
+        {
+          "id": 246,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Barda perimetral",
+          "proyectos": [
+            {
+              "id": 252,
+              "subprograma": {
+                "id": 246,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Barda perimetral"
+              },
+              "proyecto": "Barda perimetral"
+            }
+          ]
+        },
+        {
+          "id": 265,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Talleres y laboratorios",
+          "proyectos": [
+            {
+              "id": 266,
+              "subprograma": {
+                "id": 265,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Talleres y laboratorios"
+              },
+              "proyecto": "Talleres y laboratorios"
+            }
+          ]
+        },
+        {
+          "id": 278,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Dirección",
+          "proyectos": [
+            {
+              "id": 277,
+              "subprograma": {
+                "id": 278,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Dirección"
+              },
+              "proyecto": "Dirección"
+            }
+          ]
+        },
+        {
+          "id": 285,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Sanitarios",
+          "proyectos": [
+            {
+              "id": 284,
+              "subprograma": {
+                "id": 285,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Sanitarios"
+              },
+              "proyecto": "Sanitarios"
+            }
+          ]
+        },
+        {
+          "id": 292,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Supervisión escolar",
+          "proyectos": [
+            {
+              "id": 291,
+              "subprograma": {
+                "id": 292,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Supervisión escolar"
+              },
+              "proyecto": "Supervisión escolar"
+            }
+          ]
+        },
+        {
+          "id": 296,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Bibliotecas",
+          "proyectos": [
+            {
+              "id": 294,
+              "subprograma": {
+                "id": 296,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Bibliotecas"
+              },
+              "proyecto": "Bibliotecas"
+            }
+          ]
+        },
+        {
+          "id": 298,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Anexos (aulas de medios, centros comunitarios de aprendizaje, entre otros)",
+          "proyectos": [
+            {
+              "id": 296,
+              "subprograma": {
+                "id": 298,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Anexos (aulas de medios, centros comunitarios de aprendizaje, entre otros)"
+              },
+              "proyecto": "Anexos (aulas de medios, centros comunitarios de aprendizaje, entre otros)"
+            }
+          ]
+        },
+        {
+          "id": 299,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Albergues escolares",
+          "proyectos": [
+            {
+              "id": 297,
+              "subprograma": {
+                "id": 299,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Albergues escolares"
+              },
+              "proyecto": "Albergues escolares"
+            }
+          ]
+        },
+        {
+          "id": 300,
+          "programa": {
+            "id": 41,
+            "programa": "Infraestructura educativa"
+          },
+          "subprograma": "Juegos Infantiles",
+          "proyectos": [
+            {
+              "id": 298,
+              "subprograma": {
+                "id": 300,
+                "programa": {
+                  "id": 41,
+                  "programa": "Infraestructura educativa"
+                },
+                "subprograma": "Juegos Infantiles"
+              },
+              "proyecto": "Juegos Infantiles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "programa": "Infraestructura ferroviaria",
+      "subprogramas": [
+        {
+          "id": 28,
+          "programa": {
+            "id": 29,
+            "programa": "Infraestructura ferroviaria"
+          },
+          "subprograma": "Vías férreas",
+          "proyectos": [
+            {
+              "id": 62,
+              "subprograma": {
+                "id": 28,
+                "programa": {
+                  "id": 29,
+                  "programa": "Infraestructura ferroviaria"
+                },
+                "subprograma": "Vías férreas"
+              },
+              "proyecto": "Vías férreas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "programa": "Infraestructura hidráulica",
+      "subprogramas": [
+        {
+          "id": 6,
+          "programa": {
+            "id": 7,
+            "programa": "Infraestructura hidráulica"
+          },
+          "subprograma": "Presas",
+          "proyectos": [
+            {
+              "id": 42,
+              "subprograma": {
+                "id": 6,
+                "programa": {
+                  "id": 7,
+                  "programa": "Infraestructura hidráulica"
+                },
+                "subprograma": "Presas"
+              },
+              "proyecto": "Presas"
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "programa": {
+            "id": 7,
+            "programa": "Infraestructura hidráulica"
+          },
+          "subprograma": "Pozos profundos",
+          "proyectos": [
+            {
+              "id": 106,
+              "subprograma": {
+                "id": 77,
+                "programa": {
+                  "id": 7,
+                  "programa": "Infraestructura hidráulica"
+                },
+                "subprograma": "Pozos profundos"
+              },
+              "proyecto": "Pozos profundos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "programa": "Infraestructura hospitalaria",
+      "subprogramas": [
+        {
+          "id": 43,
+          "programa": {
+            "id": 44,
+            "programa": "Infraestructura hospitalaria"
+          },
+          "subprograma": "Casas de salud",
+          "proyectos": [
+            {
+              "id": 76,
+              "subprograma": {
+                "id": 43,
+                "programa": {
+                  "id": 44,
+                  "programa": "Infraestructura hospitalaria"
+                },
+                "subprograma": "Casas de salud"
+              },
+              "proyecto": "Casas de salud"
+            }
+          ]
+        },
+        {
+          "id": 109,
+          "programa": {
+            "id": 44,
+            "programa": "Infraestructura hospitalaria"
+          },
+          "subprograma": "Centros de salud",
+          "proyectos": [
+            {
+              "id": 136,
+              "subprograma": {
+                "id": 109,
+                "programa": {
+                  "id": 44,
+                  "programa": "Infraestructura hospitalaria"
+                },
+                "subprograma": "Centros de salud"
+              },
+              "proyecto": "Centros de salud"
+            }
+          ]
+        },
+        {
+          "id": 154,
+          "programa": {
+            "id": 44,
+            "programa": "Infraestructura hospitalaria"
+          },
+          "subprograma": "Hospitales regionales",
+          "proyectos": [
+            {
+              "id": 174,
+              "subprograma": {
+                "id": 154,
+                "programa": {
+                  "id": 44,
+                  "programa": "Infraestructura hospitalaria"
+                },
+                "subprograma": "Hospitales regionales"
+              },
+              "proyecto": "Hospitales regionales"
+            }
+          ]
+        },
+        {
+          "id": 194,
+          "programa": {
+            "id": 44,
+            "programa": "Infraestructura hospitalaria"
+          },
+          "subprograma": "Unidades médicas rurales",
+          "proyectos": [
+            {
+              "id": 208,
+              "subprograma": {
+                "id": 194,
+                "programa": {
+                  "id": 44,
+                  "programa": "Infraestructura hospitalaria"
+                },
+                "subprograma": "Unidades médicas rurales"
+              },
+              "proyecto": "Unidades médicas rurales"
+            }
+          ]
+        },
+        {
+          "id": 223,
+          "programa": {
+            "id": 44,
+            "programa": "Infraestructura hospitalaria"
+          },
+          "subprograma": "Unidades médicas familiares",
+          "proyectos": [
+            {
+              "id": 233,
+              "subprograma": {
+                "id": 223,
+                "programa": {
+                  "id": 44,
+                  "programa": "Infraestructura hospitalaria"
+                },
+                "subprograma": "Unidades médicas familiares"
+              },
+              "proyecto": "Unidades médicas familiares"
+            }
+          ]
+        },
+        {
+          "id": 248,
+          "programa": {
+            "id": 44,
+            "programa": "Infraestructura hospitalaria"
+          },
+          "subprograma": "Clínicas",
+          "proyectos": [
+            {
+              "id": 254,
+              "subprograma": {
+                "id": 248,
+                "programa": {
+                  "id": 44,
+                  "programa": "Infraestructura hospitalaria"
+                },
+                "subprograma": "Clínicas"
+              },
+              "proyecto": "Clínicas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "programa": "Infraestructura penitenciaría",
+      "subprogramas": [
+        {
+          "id": 11,
+          "programa": {
+            "id": 12,
+            "programa": "Infraestructura penitenciaría"
+          },
+          "subprograma": "Reclusorios regionales",
+          "proyectos": [
+            {
+              "id": 46,
+              "subprograma": {
+                "id": 11,
+                "programa": {
+                  "id": 12,
+                  "programa": "Infraestructura penitenciaría"
+                },
+                "subprograma": "Reclusorios regionales"
+              },
+              "proyecto": "Reclusorios regionales"
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "programa": {
+            "id": 12,
+            "programa": "Infraestructura penitenciaría"
+          },
+          "subprograma": "Cárceles municipales",
+          "proyectos": [
+            {
+              "id": 109,
+              "subprograma": {
+                "id": 81,
+                "programa": {
+                  "id": 12,
+                  "programa": "Infraestructura penitenciaría"
+                },
+                "subprograma": "Cárceles municipales"
+              },
+              "proyecto": "Cárceles municipales"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "programa": "Infraestructura portuaria marítima",
+      "subprogramas": [
+        {
+          "id": 27,
+          "programa": {
+            "id": 28,
+            "programa": "Infraestructura portuaria marítima"
+          },
+          "subprograma": "Muelles",
+          "proyectos": [
+            {
+              "id": 61,
+              "subprograma": {
+                "id": 27,
+                "programa": {
+                  "id": 28,
+                  "programa": "Infraestructura portuaria marítima"
+                },
+                "subprograma": "Muelles"
+              },
+              "proyecto": "Muelles"
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "programa": {
+            "id": 28,
+            "programa": "Infraestructura portuaria marítima"
+          },
+          "subprograma": "Embarcaderos",
+          "proyectos": [
+            {
+              "id": 122,
+              "subprograma": {
+                "id": 94,
+                "programa": {
+                  "id": 28,
+                  "programa": "Infraestructura portuaria marítima"
+                },
+                "subprograma": "Embarcaderos"
+              },
+              "proyecto": "Embarcaderos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "programa": "Infraestructura pública",
+      "subprogramas": [
+        {
+          "id": 32,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Salón de usos múltiples",
+          "proyectos": [
+            {
+              "id": 66,
+              "subprograma": {
+                "id": 32,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Salón de usos múltiples"
+              },
+              "proyecto": "Salón de usos múltiples"
+            }
+          ]
+        },
+        {
+          "id": 98,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Palacios municipales, agencias municipales y de policía",
+          "proyectos": [
+            {
+              "id": 126,
+              "subprograma": {
+                "id": 98,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Palacios municipales, agencias municipales y de policía"
+              },
+              "proyecto": "Palacios municipales, agencias municipales y de policía"
+            }
+          ]
+        },
+        {
+          "id": 144,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Mercados públicos",
+          "proyectos": [
+            {
+              "id": 165,
+              "subprograma": {
+                "id": 144,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Mercados públicos"
+              },
+              "proyecto": "Mercados públicos"
+            }
+          ]
+        },
+        {
+          "id": 183,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Bardas perimetrales",
+          "proyectos": [
+            {
+              "id": 199,
+              "subprograma": {
+                "id": 183,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Bardas perimetrales"
+              },
+              "proyecto": "Bardas perimetrales"
+            }
+          ]
+        },
+        {
+          "id": 215,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Templos",
+          "proyectos": [
+            {
+              "id": 226,
+              "subprograma": {
+                "id": 215,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Templos"
+              },
+              "proyecto": "Templos"
+            }
+          ]
+        },
+        {
+          "id": 241,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Bibliotecas públicas",
+          "proyectos": [
+            {
+              "id": 248,
+              "subprograma": {
+                "id": 241,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Bibliotecas públicas"
+              },
+              "proyecto": "Bibliotecas públicas"
+            }
+          ]
+        },
+        {
+          "id": 262,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Sanitarios públicos",
+          "proyectos": [
+            {
+              "id": 265,
+              "subprograma": {
+                "id": 262,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Sanitarios públicos"
+              },
+              "proyecto": "Sanitarios públicos"
+            }
+          ]
+        },
+        {
+          "id": 276,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Casas para maestros",
+          "proyectos": [
+            {
+              "id": 276,
+              "subprograma": {
+                "id": 276,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Casas para maestros"
+              },
+              "proyecto": "Casas para maestros"
+            }
+          ]
+        },
+        {
+          "id": 284,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Plazas cívicas",
+          "proyectos": [
+            {
+              "id": 283,
+              "subprograma": {
+                "id": 284,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Plazas cívicas"
+              },
+              "proyecto": "Plazas cívicas"
+            }
+          ]
+        },
+        {
+          "id": 291,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Panteones",
+          "proyectos": [
+            {
+              "id": 290,
+              "subprograma": {
+                "id": 291,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Panteones"
+              },
+              "proyecto": "Panteones"
+            }
+          ]
+        },
+        {
+          "id": 295,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 293,
+              "subprograma": {
+                "id": 295,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        },
+        {
+          "id": 297,
+          "programa": {
+            "id": 33,
+            "programa": "Infraestructura pública"
+          },
+          "subprograma": "Creación de escuelas",
+          "proyectos": [
+            {
+              "id": 295,
+              "subprograma": {
+                "id": 297,
+                "programa": {
+                  "id": 33,
+                  "programa": "Infraestructura pública"
+                },
+                "subprograma": "Creación de escuelas"
+              },
+              "proyecto": "Creación de escuelas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "programa": "Instalaciones de escuelas",
+      "subprogramas": [
+        {
+          "id": 39,
+          "programa": {
+            "id": 40,
+            "programa": "Instalaciones de escuelas"
+          },
+          "subprograma": "Preescolar",
+          "proyectos": [
+            {
+              "id": 4,
+              "subprograma": {
+                "id": 39,
+                "programa": {
+                  "id": 40,
+                  "programa": "Instalaciones de escuelas"
+                },
+                "subprograma": "Preescolar"
+              },
+              "proyecto": "Preescolar"
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "programa": {
+            "id": 40,
+            "programa": "Instalaciones de escuelas"
+          },
+          "subprograma": "Primaria",
+          "proyectos": [
+            {
+              "id": 10,
+              "subprograma": {
+                "id": 105,
+                "programa": {
+                  "id": 40,
+                  "programa": "Instalaciones de escuelas"
+                },
+                "subprograma": "Primaria"
+              },
+              "proyecto": "Primaria"
+            }
+          ]
+        },
+        {
+          "id": 151,
+          "programa": {
+            "id": 40,
+            "programa": "Instalaciones de escuelas"
+          },
+          "subprograma": "Secundaria",
+          "proyectos": [
+            {
+              "id": 17,
+              "subprograma": {
+                "id": 151,
+                "programa": {
+                  "id": 40,
+                  "programa": "Instalaciones de escuelas"
+                },
+                "subprograma": "Secundaria"
+              },
+              "proyecto": "Secundaria"
+            }
+          ]
+        },
+        {
+          "id": 190,
+          "programa": {
+            "id": 40,
+            "programa": "Instalaciones de escuelas"
+          },
+          "subprograma": "Media superior",
+          "proyectos": [
+            {
+              "id": 22,
+              "subprograma": {
+                "id": 190,
+                "programa": {
+                  "id": 40,
+                  "programa": "Instalaciones de escuelas"
+                },
+                "subprograma": "Media superior"
+              },
+              "proyecto": "Media superior"
+            }
+          ]
+        },
+        {
+          "id": 220,
+          "programa": {
+            "id": 40,
+            "programa": "Instalaciones de escuelas"
+          },
+          "subprograma": "Superior",
+          "proyectos": [
+            {
+              "id": 26,
+              "subprograma": {
+                "id": 220,
+                "programa": {
+                  "id": 40,
+                  "programa": "Instalaciones de escuelas"
+                },
+                "subprograma": "Superior"
+              },
+              "proyecto": "Superior"
+            }
+          ]
+        },
+        {
+          "id": 245,
+          "programa": {
+            "id": 40,
+            "programa": "Instalaciones de escuelas"
+          },
+          "subprograma": "Albergues escolares",
+          "proyectos": [
+            {
+              "id": 30,
+              "subprograma": {
+                "id": 245,
+                "programa": {
+                  "id": 40,
+                  "programa": "Instalaciones de escuelas"
+                },
+                "subprograma": "Albergues escolares"
+              },
+              "proyecto": "Albergues escolares"
+            }
+          ]
+        },
+        {
+          "id": 301,
+          "programa": {
+            "id": 40,
+            "programa": "Instalaciones de escuelas"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 36,
+              "subprograma": {
+                "id": 301,
+                "programa": {
+                  "id": 40,
+                  "programa": "Instalaciones de escuelas"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "programa": "Modernización de los sistemas de comercialización",
+      "subprogramas": [
+        {
+          "id": 53,
+          "programa": {
+            "id": 54,
+            "programa": "Modernización de los sistemas de comercialización"
+          },
+          "subprograma": "Capacitación y asistencia técnica",
+          "proyectos": [
+            {
+              "id": 86,
+              "subprograma": {
+                "id": 53,
+                "programa": {
+                  "id": 54,
+                  "programa": "Modernización de los sistemas de comercialización"
+                },
+                "subprograma": "Capacitación y asistencia técnica"
+              },
+              "proyecto": "Capacitación y asistencia técnica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "programa": "Organización",
+      "subprogramas": [
+        {
+          "id": 17,
+          "programa": {
+            "id": 18,
+            "programa": "Organización"
+          },
+          "subprograma": "Constitución de organizaciones",
+          "proyectos": [
+            {
+              "id": 51,
+              "subprograma": {
+                "id": 17,
+                "programa": {
+                  "id": 18,
+                  "programa": "Organización"
+                },
+                "subprograma": "Constitución de organizaciones"
+              },
+              "proyecto": "Constitución de organizaciones"
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "programa": {
+            "id": 18,
+            "programa": "Organización"
+          },
+          "subprograma": "Capacitación",
+          "proyectos": [
+            {
+              "id": 114,
+              "subprograma": {
+                "id": 86,
+                "programa": {
+                  "id": 18,
+                  "programa": "Organización"
+                },
+                "subprograma": "Capacitación"
+              },
+              "proyecto": "Capacitación"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "programa": "Participación democrática",
+      "subprogramas": [
+        {
+          "id": 61,
+          "programa": {
+            "id": 62,
+            "programa": "Participación democrática"
+          },
+          "subprograma": "Priorización de la demanda social",
+          "proyectos": [
+            {
+              "id": 91,
+              "subprograma": {
+                "id": 61,
+                "programa": {
+                  "id": 62,
+                  "programa": "Participación democrática"
+                },
+                "subprograma": "Priorización de la demanda social"
+              },
+              "proyecto": "Priorización de la demanda social"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "programa": "Pozos",
+      "subprogramas": [
+        {
+          "id": 48,
+          "programa": {
+            "id": 49,
+            "programa": "Pozos"
+          },
+          "subprograma": "Pozos",
+          "proyectos": [
+            {
+              "id": 81,
+              "subprograma": {
+                "id": 48,
+                "programa": {
+                  "id": 49,
+                  "programa": "Pozos"
+                },
+                "subprograma": "Pozos"
+              },
+              "proyecto": "Pozos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "programa": "Preservación y desarrollo de la medicina tradicional",
+      "subprogramas": [
+        {
+          "id": 47,
+          "programa": {
+            "id": 48,
+            "programa": "Preservación y desarrollo de la medicina tradicional"
+          },
+          "subprograma": "Difusión",
+          "proyectos": [
+            {
+              "id": 80,
+              "subprograma": {
+                "id": 47,
+                "programa": {
+                  "id": 48,
+                  "programa": "Preservación y desarrollo de la medicina tradicional"
+                },
+                "subprograma": "Difusión"
+              },
+              "proyecto": "Difusión"
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "programa": {
+            "id": 48,
+            "programa": "Preservación y desarrollo de la medicina tradicional"
+          },
+          "subprograma": "Capacitación",
+          "proyectos": [
+            {
+              "id": 11,
+              "subprograma": {
+                "id": 113,
+                "programa": {
+                  "id": 48,
+                  "programa": "Preservación y desarrollo de la medicina tradicional"
+                },
+                "subprograma": "Capacitación"
+              },
+              "proyecto": "Capacitación"
+            }
+          ]
+        },
+        {
+          "id": 158,
+          "programa": {
+            "id": 48,
+            "programa": "Preservación y desarrollo de la medicina tradicional"
+          },
+          "subprograma": "Infraestructura de centros médicos",
+          "proyectos": [
+            {
+              "id": 178,
+              "subprograma": {
+                "id": 158,
+                "programa": {
+                  "id": 48,
+                  "programa": "Preservación y desarrollo de la medicina tradicional"
+                },
+                "subprograma": "Infraestructura de centros médicos"
+              },
+              "proyecto": "Infraestructura de centros médicos"
+            }
+          ]
+        },
+        {
+          "id": 198,
+          "programa": {
+            "id": 48,
+            "programa": "Preservación y desarrollo de la medicina tradicional"
+          },
+          "subprograma": "Investigación",
+          "proyectos": [
+            {
+              "id": 212,
+              "subprograma": {
+                "id": 198,
+                "programa": {
+                  "id": 48,
+                  "programa": "Preservación y desarrollo de la medicina tradicional"
+                },
+                "subprograma": "Investigación"
+              },
+              "proyecto": "Investigación"
+            }
+          ]
+        },
+        {
+          "id": 226,
+          "programa": {
+            "id": 48,
+            "programa": "Preservación y desarrollo de la medicina tradicional"
+          },
+          "subprograma": "Organización",
+          "proyectos": [
+            {
+              "id": 27,
+              "subprograma": {
+                "id": 226,
+                "programa": {
+                  "id": 48,
+                  "programa": "Preservación y desarrollo de la medicina tradicional"
+                },
+                "subprograma": "Organización"
+              },
+              "proyecto": "Organización"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "programa": "Procuración de justicia",
+      "subprogramas": [
+        {
+          "id": 70,
+          "programa": {
+            "id": 71,
+            "programa": "Procuración de justicia"
+          },
+          "subprograma": "Asesoría jurídica",
+          "proyectos": [
+            {
+              "id": 8,
+              "subprograma": {
+                "id": 70,
+                "programa": {
+                  "id": 71,
+                  "programa": "Procuración de justicia"
+                },
+                "subprograma": "Asesoría jurídica"
+              },
+              "proyecto": "Asesoría jurídica"
+            }
+          ]
+        },
+        {
+          "id": 129,
+          "programa": {
+            "id": 71,
+            "programa": "Procuración de justicia"
+          },
+          "subprograma": "Quejas",
+          "proyectos": [
+            {
+              "id": 151,
+              "subprograma": {
+                "id": 129,
+                "programa": {
+                  "id": 71,
+                  "programa": "Procuración de justicia"
+                },
+                "subprograma": "Quejas"
+              },
+              "proyecto": "Quejas"
+            }
+          ]
+        },
+        {
+          "id": 170,
+          "programa": {
+            "id": 71,
+            "programa": "Procuración de justicia"
+          },
+          "subprograma": "Investigación de delitos",
+          "proyectos": [
+            {
+              "id": 21,
+              "subprograma": {
+                "id": 170,
+                "programa": {
+                  "id": 71,
+                  "programa": "Procuración de justicia"
+                },
+                "subprograma": "Investigación de delitos"
+              },
+              "proyecto": "Investigación de delitos"
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "programa": {
+            "id": 71,
+            "programa": "Procuración de justicia"
+          },
+          "subprograma": "Denuncias o querellas",
+          "proyectos": [
+            {
+              "id": 220,
+              "subprograma": {
+                "id": 208,
+                "programa": {
+                  "id": 71,
+                  "programa": "Procuración de justicia"
+                },
+                "subprograma": "Denuncias o querellas"
+              },
+              "proyecto": "Denuncias o querellas"
+            }
+          ]
+        },
+        {
+          "id": 235,
+          "programa": {
+            "id": 71,
+            "programa": "Procuración de justicia"
+          },
+          "subprograma": "Revisión de  la averiguación previa",
+          "proyectos": [
+            {
+              "id": 243,
+              "subprograma": {
+                "id": 235,
+                "programa": {
+                  "id": 71,
+                  "programa": "Procuración de justicia"
+                },
+                "subprograma": "Revisión de  la averiguación previa"
+              },
+              "proyecto": "Revisión de  la averiguación previa"
+            }
+          ]
+        },
+        {
+          "id": 258,
+          "programa": {
+            "id": 71,
+            "programa": "Procuración de justicia"
+          },
+          "subprograma": "Asignación de defensores de oficio",
+          "proyectos": [
+            {
+              "id": 32,
+              "subprograma": {
+                "id": 258,
+                "programa": {
+                  "id": 71,
+                  "programa": "Procuración de justicia"
+                },
+                "subprograma": "Asignación de defensores de oficio"
+              },
+              "proyecto": "Asignación de defensores de oficio"
+            }
+          ]
+        },
+        {
+          "id": 273,
+          "programa": {
+            "id": 71,
+            "programa": "Procuración de justicia"
+          },
+          "subprograma": "Amnistía Internacional",
+          "proyectos": []
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "programa": "Profesionalización y modernización administrativa",
+      "subprogramas": [
+        {
+          "id": 63,
+          "programa": {
+            "id": 64,
+            "programa": "Profesionalización y modernización administrativa"
+          },
+          "subprograma": "Descentralización administrativa / oficinas de Gobierno",
+          "proyectos": [
+            {
+              "id": 93,
+              "subprograma": {
+                "id": 63,
+                "programa": {
+                  "id": 64,
+                  "programa": "Profesionalización y modernización administrativa"
+                },
+                "subprograma": "Descentralización administrativa / oficinas de Gobierno"
+              },
+              "proyecto": "Descentralización administrativa / oficinas de Gobierno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "programa": "Programas especiales",
+      "subprogramas": [
+        {
+          "id": 65,
+          "programa": {
+            "id": 66,
+            "programa": "Programas especiales"
+          },
+          "subprograma": "Apoyos diversos",
+          "proyectos": [
+            {
+              "id": 95,
+              "subprograma": {
+                "id": 65,
+                "programa": {
+                  "id": 66,
+                  "programa": "Programas especiales"
+                },
+                "subprograma": "Apoyos diversos"
+              },
+              "proyecto": "Apoyos diversos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "programa": "Protección civil",
+      "subprogramas": [
+        {
+          "id": 12,
+          "programa": {
+            "id": 13,
+            "programa": "Protección civil"
+          },
+          "subprograma": "Unidad Estatal",
+          "proyectos": [
+            {
+              "id": 47,
+              "subprograma": {
+                "id": 12,
+                "programa": {
+                  "id": 13,
+                  "programa": "Protección civil"
+                },
+                "subprograma": "Unidad Estatal"
+              },
+              "proyecto": "Unidad Estatal"
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "programa": {
+            "id": 13,
+            "programa": "Protección civil"
+          },
+          "subprograma": "Programas emergentes",
+          "proyectos": [
+            {
+              "id": 110,
+              "subprograma": {
+                "id": 82,
+                "programa": {
+                  "id": 13,
+                  "programa": "Protección civil"
+                },
+                "subprograma": "Programas emergentes"
+              },
+              "proyecto": "Programas emergentes"
+            }
+          ]
+        },
+        {
+          "id": 136,
+          "programa": {
+            "id": 13,
+            "programa": "Protección civil"
+          },
+          "subprograma": "Cuerpos de rescate",
+          "proyectos": [
+            {
+              "id": 157,
+              "subprograma": {
+                "id": 136,
+                "programa": {
+                  "id": 13,
+                  "programa": "Protección civil"
+                },
+                "subprograma": "Cuerpos de rescate"
+              },
+              "proyecto": "Cuerpos de rescate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "programa": "Readaptación social",
+      "subprogramas": [
+        {
+          "id": 13,
+          "programa": {
+            "id": 14,
+            "programa": "Readaptación social"
+          },
+          "subprograma": "Transferencia de internos",
+          "proyectos": [
+            {
+              "id": 3,
+              "subprograma": {
+                "id": 13,
+                "programa": {
+                  "id": 14,
+                  "programa": "Readaptación social"
+                },
+                "subprograma": "Transferencia de internos"
+              },
+              "proyecto": "Transferencia de internos"
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "programa": {
+            "id": 14,
+            "programa": "Readaptación social"
+          },
+          "subprograma": "Preliberaciones",
+          "proyectos": [
+            {
+              "id": 111,
+              "subprograma": {
+                "id": 83,
+                "programa": {
+                  "id": 14,
+                  "programa": "Readaptación social"
+                },
+                "subprograma": "Preliberaciones"
+              },
+              "proyecto": "Preliberaciones"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "programa": "Regulación de la tenencia de la tierra",
+      "subprogramas": [
+        {
+          "id": 15,
+          "programa": {
+            "id": 16,
+            "programa": "Regulación de la tenencia de la tierra"
+          },
+          "subprograma": "Reconocimiento de derechos parcelarios",
+          "proyectos": [
+            {
+              "id": 49,
+              "subprograma": {
+                "id": 15,
+                "programa": {
+                  "id": 16,
+                  "programa": "Regulación de la tenencia de la tierra"
+                },
+                "subprograma": "Reconocimiento de derechos parcelarios"
+              },
+              "proyecto": "Reconocimiento de derechos parcelarios"
+            }
+          ]
+        },
+        {
+          "id": 84,
+          "programa": {
+            "id": 16,
+            "programa": "Regulación de la tenencia de la tierra"
+          },
+          "subprograma": "Expropiación de terrenos",
+          "proyectos": [
+            {
+              "id": 112,
+              "subprograma": {
+                "id": 84,
+                "programa": {
+                  "id": 16,
+                  "programa": "Regulación de la tenencia de la tierra"
+                },
+                "subprograma": "Expropiación de terrenos"
+              },
+              "proyecto": "Expropiación de terrenos"
+            }
+          ]
+        },
+        {
+          "id": 137,
+          "programa": {
+            "id": 16,
+            "programa": "Regulación de la tenencia de la tierra"
+          },
+          "subprograma": "Indemnizaciones",
+          "proyectos": [
+            {
+              "id": 158,
+              "subprograma": {
+                "id": 137,
+                "programa": {
+                  "id": 16,
+                  "programa": "Regulación de la tenencia de la tierra"
+                },
+                "subprograma": "Indemnizaciones"
+              },
+              "proyecto": "Indemnizaciones"
+            }
+          ]
+        },
+        {
+          "id": 177,
+          "programa": {
+            "id": 16,
+            "programa": "Regulación de la tenencia de la tierra"
+          },
+          "subprograma": "Apeo y deslinde",
+          "proyectos": [
+            {
+              "id": 193,
+              "subprograma": {
+                "id": 177,
+                "programa": {
+                  "id": 16,
+                  "programa": "Regulación de la tenencia de la tierra"
+                },
+                "subprograma": "Apeo y deslinde"
+              },
+              "proyecto": "Apeo y deslinde"
+            }
+          ]
+        },
+        {
+          "id": 211,
+          "programa": {
+            "id": 16,
+            "programa": "Regulación de la tenencia de la tierra"
+          },
+          "subprograma": "Regulación de la tenencia de la tierra en áreas productivas",
+          "proyectos": [
+            {
+              "id": 222,
+              "subprograma": {
+                "id": 211,
+                "programa": {
+                  "id": 16,
+                  "programa": "Regulación de la tenencia de la tierra"
+                },
+                "subprograma": "Regulación de la tenencia de la tierra en áreas productivas"
+              },
+              "proyecto": "Regulación de la tenencia de la tierra en áreas productivas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "programa": "Rescate de las expresiones y manifestaciones de la cultura",
+      "subprogramas": [
+        {
+          "id": 38,
+          "programa": {
+            "id": 39,
+            "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+          },
+          "subprograma": "Música",
+          "proyectos": [
+            {
+              "id": 72,
+              "subprograma": {
+                "id": 38,
+                "programa": {
+                  "id": 39,
+                  "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+                },
+                "subprograma": "Música"
+              },
+              "proyecto": "Música"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "programa": {
+            "id": 39,
+            "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+          },
+          "subprograma": "Danza",
+          "proyectos": [
+            {
+              "id": 132,
+              "subprograma": {
+                "id": 104,
+                "programa": {
+                  "id": 39,
+                  "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+                },
+                "subprograma": "Danza"
+              },
+              "proyecto": "Danza"
+            }
+          ]
+        },
+        {
+          "id": 150,
+          "programa": {
+            "id": 39,
+            "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+          },
+          "subprograma": "Manualidades",
+          "proyectos": [
+            {
+              "id": 171,
+              "subprograma": {
+                "id": 150,
+                "programa": {
+                  "id": 39,
+                  "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+                },
+                "subprograma": "Manualidades"
+              },
+              "proyecto": "Manualidades"
+            }
+          ]
+        },
+        {
+          "id": 189,
+          "programa": {
+            "id": 39,
+            "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+          },
+          "subprograma": "Libros",
+          "proyectos": [
+            {
+              "id": 205,
+              "subprograma": {
+                "id": 189,
+                "programa": {
+                  "id": 39,
+                  "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+                },
+                "subprograma": "Libros"
+              },
+              "proyecto": "Libros"
+            }
+          ]
+        },
+        {
+          "id": 219,
+          "programa": {
+            "id": 39,
+            "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+          },
+          "subprograma": "Exposición de obras de arte",
+          "proyectos": [
+            {
+              "id": 230,
+              "subprograma": {
+                "id": 219,
+                "programa": {
+                  "id": 39,
+                  "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+                },
+                "subprograma": "Exposición de obras de arte"
+              },
+              "proyecto": "Exposición de obras de arte"
+            }
+          ]
+        },
+        {
+          "id": 244,
+          "programa": {
+            "id": 39,
+            "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+          },
+          "subprograma": "Brigadas culturales",
+          "proyectos": [
+            {
+              "id": 251,
+              "subprograma": {
+                "id": 244,
+                "programa": {
+                  "id": 39,
+                  "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+                },
+                "subprograma": "Brigadas culturales"
+              },
+              "proyecto": "Brigadas culturales"
+            }
+          ]
+        },
+        {
+          "id": 264,
+          "programa": {
+            "id": 39,
+            "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+          },
+          "subprograma": "Permisos para utilizar espacios culturales",
+          "proyectos": [
+            {
+              "id": 33,
+              "subprograma": {
+                "id": 264,
+                "programa": {
+                  "id": 39,
+                  "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+                },
+                "subprograma": "Permisos para utilizar espacios culturales"
+              },
+              "proyecto": "Permisos para utilizar espacios culturales"
+            }
+          ]
+        },
+        {
+          "id": 277,
+          "programa": {
+            "id": 39,
+            "programa": "Rescate de las expresiones y manifestaciones de la cultura"
+          },
+          "subprograma": "Otros",
+          "proyectos": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "programa": "Secretaría de la Defensa Nacional",
+      "subprogramas": [
+        {
+          "id": 10,
+          "programa": {
+            "id": 11,
+            "programa": "Secretaría de la Defensa Nacional"
+          },
+          "subprograma": "Campañas de despistolización",
+          "proyectos": [
+            {
+              "id": 2,
+              "subprograma": {
+                "id": 10,
+                "programa": {
+                  "id": 11,
+                  "programa": "Secretaría de la Defensa Nacional"
+                },
+                "subprograma": "Campañas de despistolización"
+              },
+              "proyecto": "Campañas de despistolización"
+            }
+          ]
+        },
+        {
+          "id": 80,
+          "programa": {
+            "id": 11,
+            "programa": "Secretaría de la Defensa Nacional"
+          },
+          "subprograma": "Permiso para el uso de explosivos",
+          "proyectos": [
+            {
+              "id": 9,
+              "subprograma": {
+                "id": 80,
+                "programa": {
+                  "id": 11,
+                  "programa": "Secretaría de la Defensa Nacional"
+                },
+                "subprograma": "Permiso para el uso de explosivos"
+              },
+              "proyecto": "Permiso para el uso de explosivos"
+            }
+          ]
+        },
+        {
+          "id": 135,
+          "programa": {
+            "id": 11,
+            "programa": "Secretaría de la Defensa Nacional"
+          },
+          "subprograma": "Brigadas militares",
+          "proyectos": [
+            {
+              "id": 156,
+              "subprograma": {
+                "id": 135,
+                "programa": {
+                  "id": 11,
+                  "programa": "Secretaría de la Defensa Nacional"
+                },
+                "subprograma": "Brigadas militares"
+              },
+              "proyecto": "Brigadas militares"
+            }
+          ]
+        },
+        {
+          "id": 176,
+          "programa": {
+            "id": 11,
+            "programa": "Secretaría de la Defensa Nacional"
+          },
+          "subprograma": "Retenes militares",
+          "proyectos": [
+            {
+              "id": 192,
+              "subprograma": {
+                "id": 176,
+                "programa": {
+                  "id": 11,
+                  "programa": "Secretaría de la Defensa Nacional"
+                },
+                "subprograma": "Retenes militares"
+              },
+              "proyecto": "Retenes militares"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "programa": "Seguridad pública",
+      "subprogramas": [
+        {
+          "id": 68,
+          "programa": {
+            "id": 69,
+            "programa": "Seguridad pública"
+          },
+          "subprograma": "Destacamentos",
+          "proyectos": [
+            {
+              "id": 98,
+              "subprograma": {
+                "id": 68,
+                "programa": {
+                  "id": 69,
+                  "programa": "Seguridad pública"
+                },
+                "subprograma": "Destacamentos"
+              },
+              "proyecto": "Destacamentos"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "programa": {
+            "id": 69,
+            "programa": "Seguridad pública"
+          },
+          "subprograma": "Corporaciones policíacas",
+          "proyectos": [
+            {
+              "id": 150,
+              "subprograma": {
+                "id": 128,
+                "programa": {
+                  "id": 69,
+                  "programa": "Seguridad pública"
+                },
+                "subprograma": "Corporaciones policíacas"
+              },
+              "proyecto": "Corporaciones policíacas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "programa": "Seguridad pública",
+      "subprogramas": [
+        {
+          "id": 8,
+          "programa": {
+            "id": 9,
+            "programa": "Seguridad pública"
+          },
+          "subprograma": "Módulos de policía",
+          "proyectos": [
+            {
+              "id": 44,
+              "subprograma": {
+                "id": 8,
+                "programa": {
+                  "id": 9,
+                  "programa": "Seguridad pública"
+                },
+                "subprograma": "Módulos de policía"
+              },
+              "proyecto": "Módulos de policía"
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "programa": {
+            "id": 9,
+            "programa": "Seguridad pública"
+          },
+          "subprograma": "Brigadas de seguridad pública",
+          "proyectos": [
+            {
+              "id": 107,
+              "subprograma": {
+                "id": 78,
+                "programa": {
+                  "id": 9,
+                  "programa": "Seguridad pública"
+                },
+                "subprograma": "Brigadas de seguridad pública"
+              },
+              "proyecto": "Brigadas de seguridad pública"
+            }
+          ]
+        },
+        {
+          "id": 134,
+          "programa": {
+            "id": 9,
+            "programa": "Seguridad pública"
+          },
+          "subprograma": "Policía Auxiliar Bancaria, Industrial y Comercial",
+          "proyectos": [
+            {
+              "id": 155,
+              "subprograma": {
+                "id": 134,
+                "programa": {
+                  "id": 9,
+                  "programa": "Seguridad pública"
+                },
+                "subprograma": "Policía Auxiliar Bancaria, Industrial y Comercial"
+              },
+              "proyecto": "Policía Auxiliar Bancaria, Industrial y Comercial"
+            }
+          ]
+        },
+        {
+          "id": 175,
+          "programa": {
+            "id": 9,
+            "programa": "Seguridad pública"
+          },
+          "subprograma": "Seguridad",
+          "proyectos": [
+            {
+              "id": 191,
+              "subprograma": {
+                "id": 175,
+                "programa": {
+                  "id": 9,
+                  "programa": "Seguridad pública"
+                },
+                "subprograma": "Seguridad"
+              },
+              "proyecto": "Seguridad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "programa": "Seguridad social",
+      "subprogramas": [
+        {
+          "id": 9,
+          "programa": {
+            "id": 10,
+            "programa": "Seguridad social"
+          },
+          "subprograma": "H. Cuerpo de Bomberos",
+          "proyectos": [
+            {
+              "id": 45,
+              "subprograma": {
+                "id": 9,
+                "programa": {
+                  "id": 10,
+                  "programa": "Seguridad social"
+                },
+                "subprograma": "H. Cuerpo de Bomberos"
+              },
+              "proyecto": "H. Cuerpo de Bomberos"
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "programa": {
+            "id": 10,
+            "programa": "Seguridad social"
+          },
+          "subprograma": "Policía Turística",
+          "proyectos": [
+            {
+              "id": 108,
+              "subprograma": {
+                "id": 79,
+                "programa": {
+                  "id": 10,
+                  "programa": "Seguridad social"
+                },
+                "subprograma": "Policía Turística"
+              },
+              "proyecto": "Policía Turística"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "programa": "Servicios de salud",
+      "subprogramas": [
+        {
+          "id": 45,
+          "programa": {
+            "id": 46,
+            "programa": "Servicios de salud"
+          },
+          "subprograma": "Salud / Servicios médicos, equipamiento y personal médico",
+          "proyectos": [
+            {
+              "id": 78,
+              "subprograma": {
+                "id": 45,
+                "programa": {
+                  "id": 46,
+                  "programa": "Servicios de salud"
+                },
+                "subprograma": "Salud / Servicios médicos, equipamiento y personal médico"
+              },
+              "proyecto": "Salud / Servicios médicos, equipamiento y personal médico"
+            }
+          ]
+        },
+        {
+          "id": 111,
+          "programa": {
+            "id": 46,
+            "programa": "Servicios de salud"
+          },
+          "subprograma": "Programas de Salud",
+          "proyectos": [
+            {
+              "id": 138,
+              "subprograma": {
+                "id": 111,
+                "programa": {
+                  "id": 46,
+                  "programa": "Servicios de salud"
+                },
+                "subprograma": "Programas de Salud"
+              },
+              "proyecto": "Programas de Salud"
+            }
+          ]
+        },
+        {
+          "id": 156,
+          "programa": {
+            "id": 46,
+            "programa": "Servicios de salud"
+          },
+          "subprograma": "Regulación sanitaria",
+          "proyectos": [
+            {
+              "id": 176,
+              "subprograma": {
+                "id": 156,
+                "programa": {
+                  "id": 46,
+                  "programa": "Servicios de salud"
+                },
+                "subprograma": "Regulación sanitaria"
+              },
+              "proyecto": "Regulación sanitaria"
+            }
+          ]
+        },
+        {
+          "id": 196,
+          "programa": {
+            "id": 46,
+            "programa": "Servicios de salud"
+          },
+          "subprograma": "Asuntos administrativos",
+          "proyectos": [
+            {
+              "id": 210,
+              "subprograma": {
+                "id": 196,
+                "programa": {
+                  "id": 46,
+                  "programa": "Servicios de salud"
+                },
+                "subprograma": "Asuntos administrativos"
+              },
+              "proyecto": "Asuntos administrativos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "programa": "Sistemas de saneamiento",
+      "subprogramas": [
+        {
+          "id": 49,
+          "programa": {
+            "id": 50,
+            "programa": "Sistemas de saneamiento"
+          },
+          "subprograma": "Plantas de tratamiento de aguas residuales",
+          "proyectos": [
+            {
+              "id": 82,
+              "subprograma": {
+                "id": 49,
+                "programa": {
+                  "id": 50,
+                  "programa": "Sistemas de saneamiento"
+                },
+                "subprograma": "Plantas de tratamiento de aguas residuales"
+              },
+              "proyecto": "Plantas de tratamiento de aguas residuales"
+            }
+          ]
+        },
+        {
+          "id": 114,
+          "programa": {
+            "id": 50,
+            "programa": "Sistemas de saneamiento"
+          },
+          "subprograma": "Fosas y lagunas de oxidación de aguas residuales",
+          "proyectos": [
+            {
+              "id": 140,
+              "subprograma": {
+                "id": 114,
+                "programa": {
+                  "id": 50,
+                  "programa": "Sistemas de saneamiento"
+                },
+                "subprograma": "Fosas y lagunas de oxidación de aguas residuales"
+              },
+              "proyecto": "Fosas y lagunas de oxidación de aguas residuales"
+            }
+          ]
+        },
+        {
+          "id": 159,
+          "programa": {
+            "id": 50,
+            "programa": "Sistemas de saneamiento"
+          },
+          "subprograma": "Protección y programa de preservación ecológica",
+          "proyectos": [
+            {
+              "id": 179,
+              "subprograma": {
+                "id": 159,
+                "programa": {
+                  "id": 50,
+                  "programa": "Sistemas de saneamiento"
+                },
+                "subprograma": "Protección y programa de preservación ecológica"
+              },
+              "proyecto": "Protección y programa de preservación ecológica"
+            }
+          ]
+        },
+        {
+          "id": 199,
+          "programa": {
+            "id": 50,
+            "programa": "Sistemas de saneamiento"
+          },
+          "subprograma": "Desazolve de ríos y arroyos",
+          "proyectos": [
+            {
+              "id": 213,
+              "subprograma": {
+                "id": 199,
+                "programa": {
+                  "id": 50,
+                  "programa": "Sistemas de saneamiento"
+                },
+                "subprograma": "Desazolve de ríos y arroyos"
+              },
+              "proyecto": "Desazolve de ríos y arroyos"
+            }
+          ]
+        },
+        {
+          "id": 227,
+          "programa": {
+            "id": 50,
+            "programa": "Sistemas de saneamiento"
+          },
+          "subprograma": "Muros de retención",
+          "proyectos": [
+            {
+              "id": 236,
+              "subprograma": {
+                "id": 227,
+                "programa": {
+                  "id": 50,
+                  "programa": "Sistemas de saneamiento"
+                },
+                "subprograma": "Muros de retención"
+              },
+              "proyecto": "Muros de retención"
+            }
+          ]
+        },
+        {
+          "id": 250,
+          "programa": {
+            "id": 50,
+            "programa": "Sistemas de saneamiento"
+          },
+          "subprograma": "Entubamiento de ríos",
+          "proyectos": [
+            {
+              "id": 256,
+              "subprograma": {
+                "id": 250,
+                "programa": {
+                  "id": 50,
+                  "programa": "Sistemas de saneamiento"
+                },
+                "subprograma": "Entubamiento de ríos"
+              },
+              "proyecto": "Entubamiento de ríos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "programa": "Sitios históricos y culturales",
+      "subprogramas": [
+        {
+          "id": 37,
+          "programa": {
+            "id": 38,
+            "programa": "Sitios históricos y culturales"
+          },
+          "subprograma": "Templos",
+          "proyectos": [
+            {
+              "id": 71,
+              "subprograma": {
+                "id": 37,
+                "programa": {
+                  "id": 38,
+                  "programa": "Sitios históricos y culturales"
+                },
+                "subprograma": "Templos"
+              },
+              "proyecto": "Templos"
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "programa": {
+            "id": 38,
+            "programa": "Sitios históricos y culturales"
+          },
+          "subprograma": "Exconventos",
+          "proyectos": [
+            {
+              "id": 131,
+              "subprograma": {
+                "id": 103,
+                "programa": {
+                  "id": 38,
+                  "programa": "Sitios históricos y culturales"
+                },
+                "subprograma": "Exconventos"
+              },
+              "proyecto": "Exconventos"
+            }
+          ]
+        },
+        {
+          "id": 149,
+          "programa": {
+            "id": 38,
+            "programa": "Sitios históricos y culturales"
+          },
+          "subprograma": "Museos",
+          "proyectos": [
+            {
+              "id": 170,
+              "subprograma": {
+                "id": 149,
+                "programa": {
+                  "id": 38,
+                  "programa": "Sitios históricos y culturales"
+                },
+                "subprograma": "Museos"
+              },
+              "proyecto": "Museos"
+            }
+          ]
+        },
+        {
+          "id": 188,
+          "programa": {
+            "id": 38,
+            "programa": "Sitios históricos y culturales"
+          },
+          "subprograma": "Galerías",
+          "proyectos": [
+            {
+              "id": 204,
+              "subprograma": {
+                "id": 188,
+                "programa": {
+                  "id": 38,
+                  "programa": "Sitios históricos y culturales"
+                },
+                "subprograma": "Galerías"
+              },
+              "proyecto": "Galerías"
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "programa": {
+            "id": 38,
+            "programa": "Sitios históricos y culturales"
+          },
+          "subprograma": "Zonas arqueológicas",
+          "proyectos": [
+            {
+              "id": 229,
+              "subprograma": {
+                "id": 218,
+                "programa": {
+                  "id": 38,
+                  "programa": "Sitios históricos y culturales"
+                },
+                "subprograma": "Zonas arqueológicas"
+              },
+              "proyecto": "Zonas arqueológicas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "programa": "Telefonía",
+      "subprogramas": [
+        {
+          "id": 29,
+          "programa": {
+            "id": 30,
+            "programa": "Telefonía"
+          },
+          "subprograma": "Rural",
+          "proyectos": [
+            {
+              "id": 63,
+              "subprograma": {
+                "id": 29,
+                "programa": {
+                  "id": 30,
+                  "programa": "Telefonía"
+                },
+                "subprograma": "Rural"
+              },
+              "proyecto": "Rural"
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "programa": {
+            "id": 30,
+            "programa": "Telefonía"
+          },
+          "subprograma": "Urbana",
+          "proyectos": [
+            {
+              "id": 123,
+              "subprograma": {
+                "id": 95,
+                "programa": {
+                  "id": 30,
+                  "programa": "Telefonía"
+                },
+                "subprograma": "Urbana"
+              },
+              "proyecto": "Urbana"
+            }
+          ]
+        },
+        {
+          "id": 142,
+          "programa": {
+            "id": 30,
+            "programa": "Telefonía"
+          },
+          "subprograma": "Satelital",
+          "proyectos": [
+            {
+              "id": 163,
+              "subprograma": {
+                "id": 142,
+                "programa": {
+                  "id": 30,
+                  "programa": "Telefonía"
+                },
+                "subprograma": "Satelital"
+              },
+              "proyecto": "Satelital"
+            }
+          ]
+        },
+        {
+          "id": 181,
+          "programa": {
+            "id": 30,
+            "programa": "Telefonía"
+          },
+          "subprograma": "Celular",
+          "proyectos": [
+            {
+              "id": 197,
+              "subprograma": {
+                "id": 181,
+                "programa": {
+                  "id": 30,
+                  "programa": "Telefonía"
+                },
+                "subprograma": "Celular"
+              },
+              "proyecto": "Celular"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "programa": "Televisión",
+      "subprogramas": [
+        {
+          "id": 30,
+          "programa": {
+            "id": 31,
+            "programa": "Televisión"
+          },
+          "subprograma": "Antenas repetidoras",
+          "proyectos": [
+            {
+              "id": 64,
+              "subprograma": {
+                "id": 30,
+                "programa": {
+                  "id": 31,
+                  "programa": "Televisión"
+                },
+                "subprograma": "Antenas repetidoras"
+              },
+              "proyecto": "Antenas repetidoras"
+            }
+          ]
+        },
+        {
+          "id": 96,
+          "programa": {
+            "id": 31,
+            "programa": "Televisión"
+          },
+          "subprograma": "Entrevista",
+          "proyectos": [
+            {
+              "id": 124,
+              "subprograma": {
+                "id": 96,
+                "programa": {
+                  "id": 31,
+                  "programa": "Televisión"
+                },
+                "subprograma": "Entrevista"
+              },
+              "proyecto": "Entrevista"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "programa": "Tramitación de documentos / gestión administrativa",
+      "subprogramas": [
+        {
+          "id": 64,
+          "programa": {
+            "id": 65,
+            "programa": "Tramitación de documentos / gestión administrativa"
+          },
+          "subprograma": "Documentos de identificación personal",
+          "proyectos": [
+            {
+              "id": 94,
+              "subprograma": {
+                "id": 64,
+                "programa": {
+                  "id": 65,
+                  "programa": "Tramitación de documentos / gestión administrativa"
+                },
+                "subprograma": "Documentos de identificación personal"
+              },
+              "proyecto": "Documentos de identificación personal"
+            }
+          ]
+        },
+        {
+          "id": 126,
+          "programa": {
+            "id": 65,
+            "programa": "Tramitación de documentos / gestión administrativa"
+          },
+          "subprograma": "Escrituras",
+          "proyectos": [
+            {
+              "id": 148,
+              "subprograma": {
+                "id": 126,
+                "programa": {
+                  "id": 65,
+                  "programa": "Tramitación de documentos / gestión administrativa"
+                },
+                "subprograma": "Escrituras"
+              },
+              "proyecto": "Escrituras"
+            }
+          ]
+        },
+        {
+          "id": 168,
+          "programa": {
+            "id": 65,
+            "programa": "Tramitación de documentos / gestión administrativa"
+          },
+          "subprograma": "Documentos vehiculares",
+          "proyectos": [
+            {
+              "id": 185,
+              "subprograma": {
+                "id": 168,
+                "programa": {
+                  "id": 65,
+                  "programa": "Tramitación de documentos / gestión administrativa"
+                },
+                "subprograma": "Documentos vehiculares"
+              },
+              "proyecto": "Documentos vehiculares"
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "programa": {
+            "id": 65,
+            "programa": "Tramitación de documentos / gestión administrativa"
+          },
+          "subprograma": "Acreditación de autoridades",
+          "proyectos": [
+            {
+              "id": 218,
+              "subprograma": {
+                "id": 206,
+                "programa": {
+                  "id": 65,
+                  "programa": "Tramitación de documentos / gestión administrativa"
+                },
+                "subprograma": "Acreditación de autoridades"
+              },
+              "proyecto": "Acreditación de autoridades"
+            }
+          ]
+        },
+        {
+          "id": 233,
+          "programa": {
+            "id": 65,
+            "programa": "Tramitación de documentos / gestión administrativa"
+          },
+          "subprograma": "Permisos para eventos públicos",
+          "proyectos": [
+            {
+              "id": 241,
+              "subprograma": {
+                "id": 233,
+                "programa": {
+                  "id": 65,
+                  "programa": "Tramitación de documentos / gestión administrativa"
+                },
+                "subprograma": "Permisos para eventos públicos"
+              },
+              "proyecto": "Permisos para eventos públicos"
+            }
+          ]
+        },
+        {
+          "id": 256,
+          "programa": {
+            "id": 65,
+            "programa": "Tramitación de documentos / gestión administrativa"
+          },
+          "subprograma": "Permisos para elaborar y comercializar juegos pirotécnicos",
+          "proyectos": [
+            {
+              "id": 260,
+              "subprograma": {
+                "id": 256,
+                "programa": {
+                  "id": 65,
+                  "programa": "Tramitación de documentos / gestión administrativa"
+                },
+                "subprograma": "Permisos para elaborar y comercializar juegos pirotécnicos"
+              },
+              "proyecto": "Permisos para elaborar y comercializar juegos pirotécnicos"
+            }
+          ]
+        },
+        {
+          "id": 271,
+          "programa": {
+            "id": 65,
+            "programa": "Tramitación de documentos / gestión administrativa"
+          },
+          "subprograma": "Permisos para utilizar la vía pública",
+          "proyectos": [
+            {
+              "id": 272,
+              "subprograma": {
+                "id": 271,
+                "programa": {
+                  "id": 65,
+                  "programa": "Tramitación de documentos / gestión administrativa"
+                },
+                "subprograma": "Permisos para utilizar la vía pública"
+              },
+              "proyecto": "Permisos para utilizar la vía pública"
+            }
+          ]
+        },
+        {
+          "id": 283,
+          "programa": {
+            "id": 65,
+            "programa": "Tramitación de documentos / gestión administrativa"
+          },
+          "subprograma": "Otros",
+          "proyectos": [
+            {
+              "id": 282,
+              "subprograma": {
+                "id": 283,
+                "programa": {
+                  "id": 65,
+                  "programa": "Tramitación de documentos / gestión administrativa"
+                },
+                "subprograma": "Otros"
+              },
+              "proyecto": "Otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "programa": "Transporte y comunicaciones ( permisos y concesiones )",
+      "subprogramas": [
+        {
+          "id": 31,
+          "programa": {
+            "id": 32,
+            "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+          },
+          "subprograma": "Concesiones",
+          "proyectos": [
+            {
+              "id": 65,
+              "subprograma": {
+                "id": 31,
+                "programa": {
+                  "id": 32,
+                  "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+                },
+                "subprograma": "Concesiones"
+              },
+              "proyecto": "Concesiones"
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "programa": {
+            "id": 32,
+            "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+          },
+          "subprograma": "Permisos provisionales",
+          "proyectos": [
+            {
+              "id": 125,
+              "subprograma": {
+                "id": 97,
+                "programa": {
+                  "id": 32,
+                  "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+                },
+                "subprograma": "Permisos provisionales"
+              },
+              "proyecto": "Permisos provisionales"
+            }
+          ]
+        },
+        {
+          "id": 143,
+          "programa": {
+            "id": 32,
+            "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+          },
+          "subprograma": "Invasión de rutas",
+          "proyectos": [
+            {
+              "id": 164,
+              "subprograma": {
+                "id": 143,
+                "programa": {
+                  "id": 32,
+                  "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+                },
+                "subprograma": "Invasión de rutas"
+              },
+              "proyecto": "Invasión de rutas"
+            }
+          ]
+        },
+        {
+          "id": 182,
+          "programa": {
+            "id": 32,
+            "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+          },
+          "subprograma": "Condonación de pagos",
+          "proyectos": [
+            {
+              "id": 198,
+              "subprograma": {
+                "id": 182,
+                "programa": {
+                  "id": 32,
+                  "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+                },
+                "subprograma": "Condonación de pagos"
+              },
+              "proyecto": "Condonación de pagos"
+            }
+          ]
+        },
+        {
+          "id": 214,
+          "programa": {
+            "id": 32,
+            "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+          },
+          "subprograma": "Tarifas",
+          "proyectos": [
+            {
+              "id": 225,
+              "subprograma": {
+                "id": 214,
+                "programa": {
+                  "id": 32,
+                  "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+                },
+                "subprograma": "Tarifas"
+              },
+              "proyecto": "Tarifas"
+            }
+          ]
+        },
+        {
+          "id": 240,
+          "programa": {
+            "id": 32,
+            "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+          },
+          "subprograma": "Telecomunicaciones",
+          "proyectos": [
+            {
+              "id": 247,
+              "subprograma": {
+                "id": 240,
+                "programa": {
+                  "id": 32,
+                  "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+                },
+                "subprograma": "Telecomunicaciones"
+              },
+              "proyecto": "Telecomunicaciones"
+            }
+          ]
+        },
+        {
+          "id": 261,
+          "programa": {
+            "id": 32,
+            "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+          },
+          "subprograma": "Red telegráfica",
+          "proyectos": [
+            {
+              "id": 264,
+              "subprograma": {
+                "id": 261,
+                "programa": {
+                  "id": 32,
+                  "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+                },
+                "subprograma": "Red telegráfica"
+              },
+              "proyecto": "Red telegráfica"
+            }
+          ]
+        },
+        {
+          "id": 275,
+          "programa": {
+            "id": 32,
+            "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+          },
+          "subprograma": "Correos",
+          "proyectos": [
+            {
+              "id": 275,
+              "subprograma": {
+                "id": 275,
+                "programa": {
+                  "id": 32,
+                  "programa": "Transporte y comunicaciones ( permisos y concesiones )"
+                },
+                "subprograma": "Correos"
+              },
+              "proyecto": "Correos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "programa": "Urbanización",
+      "subprogramas": [
+        {
+          "id": 33,
+          "programa": {
+            "id": 34,
+            "programa": "Urbanización"
+          },
+          "subprograma": "Calles",
+          "proyectos": [
+            {
+              "id": 67,
+              "subprograma": {
+                "id": 33,
+                "programa": {
+                  "id": 34,
+                  "programa": "Urbanización"
+                },
+                "subprograma": "Calles"
+              },
+              "proyecto": "Calles"
+            }
+          ]
+        },
+        {
+          "id": 99,
+          "programa": {
+            "id": 34,
+            "programa": "Urbanización"
+          },
+          "subprograma": "Guarniciones, banquetas y muros de contención",
+          "proyectos": [
+            {
+              "id": 127,
+              "subprograma": {
+                "id": 99,
+                "programa": {
+                  "id": 34,
+                  "programa": "Urbanización"
+                },
+                "subprograma": "Guarniciones, banquetas y muros de contención"
+              },
+              "proyecto": "Guarniciones, banquetas y muros de contención"
+            }
+          ]
+        },
+        {
+          "id": 145,
+          "programa": {
+            "id": 34,
+            "programa": "Urbanización"
+          },
+          "subprograma": "Plazas cívicas y jardines",
+          "proyectos": [
+            {
+              "id": 166,
+              "subprograma": {
+                "id": 145,
+                "programa": {
+                  "id": 34,
+                  "programa": "Urbanización"
+                },
+                "subprograma": "Plazas cívicas y jardines"
+              },
+              "proyecto": "Plazas cívicas y jardines"
+            }
+          ]
+        },
+        {
+          "id": 184,
+          "programa": {
+            "id": 34,
+            "programa": "Urbanización"
+          },
+          "subprograma": "Alumbrado público",
+          "proyectos": [
+            {
+              "id": 200,
+              "subprograma": {
+                "id": 184,
+                "programa": {
+                  "id": 34,
+                  "programa": "Urbanización"
+                },
+                "subprograma": "Alumbrado público"
+              },
+              "proyecto": "Alumbrado público"
+            }
+          ]
+        },
+        {
+          "id": 216,
+          "programa": {
+            "id": 34,
+            "programa": "Urbanización"
+          },
+          "subprograma": "Áreas de juegos infantiles",
+          "proyectos": [
+            {
+              "id": 227,
+              "subprograma": {
+                "id": 216,
+                "programa": {
+                  "id": 34,
+                  "programa": "Urbanización"
+                },
+                "subprograma": "Áreas de juegos infantiles"
+              },
+              "proyecto": "Áreas de juegos infantiles"
+            }
+          ]
+        },
+        {
+          "id": 242,
+          "programa": {
+            "id": 34,
+            "programa": "Urbanización"
+          },
+          "subprograma": "Obras complementarias",
+          "proyectos": [
+            {
+              "id": 249,
+              "subprograma": {
+                "id": 242,
+                "programa": {
+                  "id": 34,
+                  "programa": "Urbanización"
+                },
+                "subprograma": "Obras complementarias"
+              },
+              "proyecto": "Obras complementarias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "programa": "Vialidades urbanas",
+      "subprogramas": [
+        {
+          "id": 34,
+          "programa": {
+            "id": 35,
+            "programa": "Vialidades urbanas"
+          },
+          "subprograma": "Avenidas",
+          "proyectos": [
+            {
+              "id": 68,
+              "subprograma": {
+                "id": 34,
+                "programa": {
+                  "id": 35,
+                  "programa": "Vialidades urbanas"
+                },
+                "subprograma": "Avenidas"
+              },
+              "proyecto": "Avenidas"
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "programa": {
+            "id": 35,
+            "programa": "Vialidades urbanas"
+          },
+          "subprograma": "Bulevares",
+          "proyectos": [
+            {
+              "id": 128,
+              "subprograma": {
+                "id": 100,
+                "programa": {
+                  "id": 35,
+                  "programa": "Vialidades urbanas"
+                },
+                "subprograma": "Bulevares"
+              },
+              "proyecto": "Bulevares"
+            }
+          ]
+        },
+        {
+          "id": 146,
+          "programa": {
+            "id": 35,
+            "programa": "Vialidades urbanas"
+          },
+          "subprograma": "Libramientos",
+          "proyectos": [
+            {
+              "id": 167,
+              "subprograma": {
+                "id": 146,
+                "programa": {
+                  "id": 35,
+                  "programa": "Vialidades urbanas"
+                },
+                "subprograma": "Libramientos"
+              },
+              "proyecto": "Libramientos"
+            }
+          ]
+        },
+        {
+          "id": 185,
+          "programa": {
+            "id": 35,
+            "programa": "Vialidades urbanas"
+          },
+          "subprograma": "Ordenamiento vial",
+          "proyectos": [
+            {
+              "id": 201,
+              "subprograma": {
+                "id": 185,
+                "programa": {
+                  "id": 35,
+                  "programa": "Vialidades urbanas"
+                },
+                "subprograma": "Ordenamiento vial"
+              },
+              "proyecto": "Ordenamiento vial"
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "programa": {
+            "id": 35,
+            "programa": "Vialidades urbanas"
+          },
+          "subprograma": "Puentes vehiculares",
+          "proyectos": [
+            {
+              "id": 228,
+              "subprograma": {
+                "id": 217,
+                "programa": {
+                  "id": 35,
+                  "programa": "Vialidades urbanas"
+                },
+                "subprograma": "Puentes vehiculares"
+              },
+              "proyecto": "Puentes vehiculares"
+            }
+          ]
+        },
+        {
+          "id": 243,
+          "programa": {
+            "id": 35,
+            "programa": "Vialidades urbanas"
+          },
+          "subprograma": "Puentes peatonales",
+          "proyectos": [
+            {
+              "id": 250,
+              "subprograma": {
+                "id": 243,
+                "programa": {
+                  "id": 35,
+                  "programa": "Vialidades urbanas"
+                },
+                "subprograma": "Puentes peatonales"
+              },
+              "proyecto": "Puentes peatonales"
+            }
+          ]
+        },
+        {
+          "id": 263,
+          "programa": {
+            "id": 35,
+            "programa": "Vialidades urbanas"
+          },
+          "subprograma": "Otras obras",
+          "proyectos": []
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "programa": "Vivienda",
+      "subprogramas": [
+        {
+          "id": 35,
+          "programa": {
+            "id": 36,
+            "programa": "Vivienda"
+          },
+          "subprograma": "Urbana",
+          "proyectos": [
+            {
+              "id": 69,
+              "subprograma": {
+                "id": 35,
+                "programa": {
+                  "id": 36,
+                  "programa": "Vivienda"
+                },
+                "subprograma": "Urbana"
+              },
+              "proyecto": "Urbana"
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "programa": {
+            "id": 36,
+            "programa": "Vivienda"
+          },
+          "subprograma": "Rural",
+          "proyectos": [
+            {
+              "id": 129,
+              "subprograma": {
+                "id": 101,
+                "programa": {
+                  "id": 36,
+                  "programa": "Vivienda"
+                },
+                "subprograma": "Rural"
+              },
+              "proyecto": "Rural"
+            }
+          ]
+        },
+        {
+          "id": 147,
+          "programa": {
+            "id": 36,
+            "programa": "Vivienda"
+          },
+          "subprograma": "Ordenamiento territorial",
+          "proyectos": [
+            {
+              "id": 168,
+              "subprograma": {
+                "id": 147,
+                "programa": {
+                  "id": 36,
+                  "programa": "Vivienda"
+                },
+                "subprograma": "Ordenamiento territorial"
+              },
+              "proyecto": "Ordenamiento territorial"
+            }
+          ]
+        },
+        {
+          "id": 186,
+          "programa": {
+            "id": 36,
+            "programa": "Vivienda"
+          },
+          "subprograma": "Regulación de asentamientos humanos",
+          "proyectos": [
+            {
+              "id": 202,
+              "subprograma": {
+                "id": 186,
+                "programa": {
+                  "id": 36,
+                  "programa": "Vivienda"
+                },
+                "subprograma": "Regulación de asentamientos humanos"
+              },
+              "proyecto": "Regulación de asentamientos humanos"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

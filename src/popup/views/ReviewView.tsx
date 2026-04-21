@@ -27,6 +27,15 @@ function buildFields(data: ExtractedData): { section: string; fields: FieldItem[
                 { label: "Teléfono",        value: data.telefono || data.celular },
             ].filter(f => f.value || f.warning),
         },
+        ...(data.contactos && data.contactos.length > 0 ? data.contactos.map((c, i) => ({
+            section: `Contacto ${i + 1}`,
+            fields: [
+                { label: "Nombre",    value: [c.nombre, c.apellido_paterno, c.apellido_materno].filter(Boolean).join(" ") },
+                { label: "Teléfono",  value: c.telefono },
+                { label: "Correo",    value: c.correo },
+                { label: "Rol",       value: c.comentario },
+            ].filter(f => f.value),
+        })) : []),
         {
             section: "Ubicación",
             fields: [
@@ -75,7 +84,7 @@ export function ReviewView({ data, filling, onBack, onFill }: Props) {
             {hasWarnings && (
                 <div className="rounded-xl bg-amber-50 px-4 py-3 flex flex-col gap-1">
                     <p className="text-xs font-semibold text-amber-700 mb-0.5">
-                        Echa un ojo a estos campos antes de enviarlos
+                        Sin coincidencia en catálogo
                     </p>
                     {data._warnings.map((w, i) => (
                         <p key={i} className="text-xs text-amber-600 leading-relaxed">
