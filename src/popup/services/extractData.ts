@@ -79,7 +79,7 @@ ${catalogoTexto}
 
 - programa/subprograma/proyecto: analiza el contenido de la petición y elige la combinación más adecuada del catálogo de arriba. Copia el texto EXACTO de la columna correspondiente. Si la petición trata de pavimentación, elige la fila de pavimentación. Si trata de agua potable, elige la fila de agua potable. Etc.
 - requiere: máx 60 caracteres, frase concreta
-- descripcion: iniciar SIEMPRE con "su apoyo con " seguido de redacción en tercera persona clara y explícita y detallada (Identificar exactamente que es lo que se solicita en el documento). Si hay varias peticiones separarlas con ;. Incluir qué se solicita, para qué comunidad/lugar. Formato normal (no MAYÚSCULAS). Máx 250 caracteres. No debe haber . final`
+- descripcion: iniciar SIEMPRE con "su apoyo con " seguido de redacción en tercera persona clara y explícita y detallada (Identificar exactamente que es lo que se solicita en el documento). Si hay varias peticiones separarlas con ;. Incluir qué se solicita, para qué comunidad/lugar (añadir CLAVE escolar si es que el documento lo contiene ), si llegara a tener varias peticiones, resumirlas lo mas posible y describir la lista de peticiones. Formato normal (no MAYÚSCULAS). Máx 500 caracteres. No debe haber . final, (Nombres propios escribir de personas o ciudades escribirlos con la primera letra en mayúscula)`
 }
 
 export async function extractDataFromImage(base64Image: string): Promise<ExtractedData> {
