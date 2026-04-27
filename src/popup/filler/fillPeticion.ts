@@ -56,7 +56,6 @@ export function fillPeticion(
         return { success: true, detail: `Seleccionó: "${option.text}"` }
     }
 
-    // ── CORREGIDO: apuntar al div .p-dropdown, no al wrapper Angular ─────────────
     async function fillPDropdown(
         dropdownId: string,
         searchText: string,
@@ -64,8 +63,6 @@ export function fillPeticion(
     ): Promise<{ success: boolean; detail: string }> {
         if (!searchText) return { success: false, detail: "Sin valor" }
 
-        // Selector corregido: #id.p-dropdown apunta al div clickeable de PrimeNG,
-        // no al wrapper del componente Angular que tiene el mismo id
         const dropdown = document.querySelector(`#${dropdownId}.p-dropdown`) as HTMLElement | null
             ?? document.querySelector(`#${dropdownId}`) as HTMLElement | null
 
@@ -108,10 +105,8 @@ export function fillPeticion(
         return { success: true, detail: `Seleccionó: "${match.textContent?.trim()}"` }
     }
 
-    // ── CORREGIDO: p-disabled también se chequea en el div .p-dropdown ────────────
     function waitForDropdownEnabled(dropdownId: string, timeout = 6000): Promise<boolean> {
         return new Promise((resolve) => {
-            // Revisar el div .p-dropdown específicamente, que es donde vive p-disabled
             const selector = `#${dropdownId}.p-dropdown`
 
             const check = () => {
@@ -139,6 +134,15 @@ export function fillPeticion(
         // ── Clasificación ─────────────────────────────────────────────────────────
         if (data["#clasificacion"]) {
             results.push({ label: "Clasificación", ...fillSelectNative("#clasificacion", data["#clasificacion"]) })
+        }
+
+        // ── Prioridad (siempre NORMAL) ────────────────────────────────────────────
+        const priorEnabled = await waitForDropdownEnabled("prioridad", 5000)
+        if (!priorEnabled) {
+            results.push({ label: "Prioridad", success: false, detail: "Dropdown no habilitado" })
+        } else {
+            const priorResult = await fillPDropdown("prioridad", "NORMAL", "Prioridad")
+            results.push({ label: "Prioridad", ...priorResult })
         }
 
         // ── Programa → Subprograma → Proyecto ─────────────────────────────────────
