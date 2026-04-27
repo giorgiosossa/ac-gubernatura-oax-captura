@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Form Filler Atención Ciudadana de Gubernatura",
+  "name": "CLARA Captura - Atención Ciudadana de Gubernatura",
   "version": "1.0",
   "permissions": ["storage", "activeTab", "scripting"],
   "action": {
