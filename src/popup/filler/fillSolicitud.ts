@@ -193,26 +193,25 @@ export function fillSolicitud(
             { selector: "#apellidoPaterno", label: "Apellido Paterno" },
             { selector: "#apellidoMaterno", label: "Apellido Materno" },
             { selector: "#edad",            label: "Edad" },
-            { selector: "#profesion",       label: "Profesión" },
+            { selector: "#profesion",       label: "Profesión",        default: "Ciudadano" },
             { selector: "#correoPersonal",  label: "Correo Personal" },
             { selector: "#telefono",        label: "Teléfono" },
             { selector: "#celular",         label: "Celular" },
-            { selector: "#cargo",           label: "Cargo" },
-            { selector: "#colonia",         label: "Colonia" },
-            { selector: "#calle",           label: "Calle" },
-            { selector: "#numeroExterior",  label: "Número Exterior" },
-            { selector: "#numeroInterior",  label: "Número Interior" },
+            { selector: "#cargo",           label: "Cargo",            default: "Ciudadano" },
+            { selector: "#colonia",         label: "Colonia",          default: "S/N" },
+            { selector: "#calle",           label: "Calle",            default: "S/N" },
+            { selector: "#numeroExterior",  label: "Número Exterior",  default: "S/N" },
+            { selector: "#numeroInterior",  label: "Número Interior",  default: "S/N" },
         ]
 
         for (const field of inputFields) {
-            const value = data[field.selector]
+            const value = data[field.selector] || field.default
             if (!value) continue
             const el = document.querySelector(field.selector) as HTMLInputElement | null
             if (!el) { results.push({ label: field.label, success: false, detail: "No encontrado" }); continue }
             fillInput(el, value)
             results.push({ label: field.label, success: true })
         }
-
         // ── 2. Autocompletes principales ────────────────────────────────────────
         if (data["genero"]) {
             results.push({ label: "Género", ...await fillAutocompleteDropdown("genero", data["genero"]) })
